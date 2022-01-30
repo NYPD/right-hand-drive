@@ -38,6 +38,7 @@ These are just the equipment I used for this project, feel free to swap whatever
          <li>
             <a href="https://www.polkaudio.com/en-us/product/db-series/db6502">Polk Audio DB 5252</a>
          </li>
+         <li><a href="https://www.kicker.com/hideaway-hs10">Kicker 46HS10</a></li>
          <li>
             <a href="https://smile.amazon.com/gp/product/B07H852D49">NATIKA Backup/Front View Camera</a>
          </li>
@@ -201,6 +202,219 @@ Once everything is fully cut mount the adapter to the front speaker bracket (mak
 
 Now all you have to do is add some [spade connectors](https://smile.amazon.com/gp/product/B07V35375X) to the wires you soldered and attach them to the speaker terminals.
 
+## Center Console Trim Removal
+
+Before moving on to the head unit, you will need to remove all the center console trim pieces to get access to the old cassette deck unit and remove it. Start off my removing the shift knob and then popping of the shift boot/cigarette lighter trim with your trim pry tools (don't forget to unplug the cigarette lighter wire before yanking it off) .
+
+![Shift boot trim removed](/images/celica-audio-and-nav-upgrade/shift-boot-trim-removed.jpg) *Shift boot trim removed*
+
+Now with this removed it will expose two screws which I have circled in red on the next image. Remove the screws and one again pop off the head unit trim with your trim tool.
+
+![Prying off the head unit trim with a trim tool](/images/celica-audio-and-nav-upgrade/head-unit-trim-removal.jpg) *Prying off the head unit trim with a trim tools*
+
+Carefully disconnect the top two the connectors to this trim and set the trim aside. Now all you have left is to remove the actual head unit cage and disconnect the wiring harness from the cassette deck.
+
+![Center console trim and head unit completely removed](/images/celica-audio-and-nav-upgrade/center-console-trim-removed.jpg#vertical) *Center console trim and head unit completely removed*
+
+The two blue connectors you see in the image is the Celica's wiring harness. These will be diagramed and explained in the next section.
+
+## Head Unit Connections
+
+Luckily the JDM version of the Celica did not pose any additional difficulty when connecting the head unit wire connector to the receiver wiring harness. However, I did spend a lot of time cross referencing multiple sites including the Crutchfield "WireGuide™" to make sure everything lined up correctly. The following is an aggregation off all the information I have rounded up.
+
+So first of all the head unit I went with is the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000). The big reason I went with this unit is that this specific model comes with a built-in amplifier which means I don't have to mess around with trying to find a spot to mount an external amplifier and take up the little amount of cargo room the Celica has. The built in amp has a 45 watt RMS and up to 100 watts peak which lines up well with the Polk Audio speakers I purchased and should be plenty of power to drive them (The polk audio speakers have a very high db sensitivity; 91/92 db).
+
+The wire receiver harness I got (which came for free with my Crutchfield order) is the [Metra 70-1761 Receiver Wiring Harness](https://www.crutchfield.com/p_120701761/Metra-70-1761-Receiver-Wiring-Harness.html). This is what the head unit wires will connect to and then in turn connect to the Celica's wire harness.
+
+So here is the Celica's wire harness connectors with a diagram of the wire **factory colors** that are attached to the connectors.
+
+![Celica wire harness connectors](/images/celica-audio-and-nav-upgrade/celica-wire-harness-connectors.jpg) *Celica Wire Harness connectors*
+
+![Main bigger wire harness connector (R3) diagram](/images/celica-audio-and-nav-upgrade/wire-harness-connector-big.png) *Main bigger wire harness connector (R3) diagram [FL: Front Left, FR: Front Right]*
+
+![Main smaller wire harness connector (R2) diagram](/images/celica-audio-and-nav-upgrade/wire-harness-connector-small.png) *Main smaller wire harness connector (R2) diagram [RL: Rear Left, RR: Rear Right]*
+
+Note that these colors **DO NOT MATCH** the [Metra 70-1761 Receiver Wiring Harness](https://www.crutchfield.com/p_120701761/Metra-70-1761-Receiver-Wiring-Harness.html) nor the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) unit wires. I'm assuming the wire color scheme used in the ST205 was an old obsolete scheme or maybe just a random scheme, not entirely sure.
+
+Now here are the actual connections you will need to make. I've also added connections for the backup camera and the parking override bypass.
+
+{{< rawhtml >}}
+<table id="wire-connector-diagram-main">
+  <thead>
+    <tr>
+      <th></th>
+      <th>
+        <span>Sony XAV-AX7000</span>
+        <br/>
+        <small>16-Pin Black Connector</small>
+      </th>
+      <th>
+          <span>Metra 70-1761 Wiring Harness</span>
+          <br/>
+          <small>10-Pin Connector</small>
+      </th>
+      <th>ST205</th>
+      <th>MicroBypass</th>
+      <th>Kicker 46HS10</th>
+      <th>Nakita Reverse Cam</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ACC</td>
+      <td>Red</td>
+      <td>Red</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <td>Front Left Speaker +</td>
+      <td>White</td>
+      <td>White</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Front Left Speaker -</td>
+      <td>White/Black</td>
+      <td>White/Black</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Front Right Speaker +</td>
+      <td>Gray</td>
+      <td>Gray</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Front Right Speaker -</td>
+      <td>Gray/Black</td>
+      <td>Gray/Black</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Illumination</td>
+      <td>Orange/White</td>
+      <td>Orange/White</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Remote / Antenna / Amp Turn On</td>
+      <td>Blue/White</td>
+      <td>Blue</td>
+      <td></td>
+      <td>Blue</td>
+      <td>Blue</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Constant Power</td>
+      <td>Yellow</td>
+      <td></td>
+      <td>Battery Positive Terminal</td>
+      <td></td>
+      <td>Red</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Parking</td>
+      <td>Light Green</td>
+      <td></td>
+      <td></td>
+      <td>Green</td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Ground</td>
+      <td>Black</td>
+      <td></td>
+      <td>Bare metal</td>
+      <td></td>
+      <td>Black</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ground</td>
+      <td></td>
+      <td>Black</td>
+      <td></td>
+      <td>Black</td>
+      <td></td>
+      <td>Black</td>
+    </tr>
+  </tbody>
+</table>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<br>
+<table id="wire-connector-diagram-minor">
+  <thead>
+    <tr>
+      <th></th>
+      <th>
+        <span>Sony XAV-AX7000</span>
+        <br/>
+        <small>16-Pin Black Connector</small>
+      </th>
+      <th>
+          <span>Metra 70-1761 Wiring Harness</span>
+          <br/>
+          <small>6-Pin Connector</small>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rear Left Speaker +</td>
+      <td>Green</td>
+      <td>Green</td>
+    </tr>
+    <tr>
+      <td>Rear Left Speaker -</td>
+      <td>Green/Black</td>
+      <td>Green/Black</td>
+    </tr>
+    <tr>
+      <td>Rear Right Speaker +</td>
+      <td>Purple</td>
+      <td>Purple</td>
+    </tr>
+    <tr>
+      <td>Rear Right Speaker -</td>
+      <td>Purple/Black</td>
+      <td>Purple/Black</td>
+    </tr>
+  </tbody>
+</table>
+{{< /rawhtml >}}
+
+To clear a little confusion from the first table, both the Sony XAV-AX7000 and the Kicker 46HS10 were grounded to the chassis. Using a ring terminal the Sony was grounded to a nut/bolt behind the center console and the Kicker to the a nut/bolt on the driveshaft tunnel.
+
+For the the connections from the Sony XAV-AX7000 to the Metra wiring harness that were 1:1 the [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3) were used. All other connections I used the [WAGO 221 LEVER-NUTS](https://www.wago.com/us/lp-221). The personal reason for this was to have the flexibility to add or remove cables from these "non-permanent" connections without worrying about having to cut and resolder the wires. This will be convenient in the event if a new electrical device gets added or removed. 
+
+All other wires that were not used were electrical taped off such as the Metra's yellow constant or the Sony XAV-AX7000 brown and green input wires.
+
+## Subwoofer
+
+
 
 - [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000)
 - [Polk Audio DB 6502](https://www.polkaudio.com/en-us/product/db-series/db6502)
@@ -215,8 +429,6 @@ Now all you have to do is add some [spade connectors](https://smile.amazon.com/g
 - [TYUMEN 40FT 18 Gauge 2pin 2 Color](https://smile.amazon.com/gp/product/B01LZRV0HV)
 - [THIKPO G420 Jumper Cables](https://smile.amazon.com/gp/product/B08LW5HFPL)
 - [Nilight Quick Disconnect Terminals](https://smile.amazon.com/gp/product/B07V35375X)
-
-
 - [Dremel 4000-6/50](https://us.dremel.com/en_US/products/-/show-product/tools/4000-6-50-high-performance-rotary-tool-kit?bvroute=Reviews%2FshowHelpfulPositive)
 - [ZELCAN Large Step Drill Bit](https://smile.amazon.com/gp/product/B07CMPH9VY/)
 - Standard screw drivers

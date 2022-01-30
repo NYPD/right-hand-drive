@@ -1,0 +1,15 @@
+.container[role=main] {
+  max-width: 775px;
+}
+.image-p {
+  text-align: center;
+}
+
+em {
+  display: block;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -63,4 +63,4 @@ disqusShortName = "right-hand-drive"
   alt = "Logo"
 
 [params]
-  customCSS = ["/css/header.css"] # in case you use `/static/css/custom.css`
+  customCSS = ['/css/header.css', '/css/global.css'] # in case you use `/static/css/custom.css`
