@@ -406,16 +406,69 @@ Now here are the actual connections you will need to make. I've also added conne
 </table>
 {{< /rawhtml >}}
 
-To clear a little confusion from the first table, both the Sony XAV-AX7000 and the Kicker 46HS10 were grounded to the chassis. Using a ring terminal the Sony was grounded to a nut/bolt behind the center console and the Kicker to the a nut/bolt on the driveshaft tunnel.
+To clear a little confusion from the first table, both the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) and the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10)were grounded to the chassis. Using a ring terminal the Sony was grounded to a nut/bolt behind the center console and the Kicker to the a nut/bolt on the driveshaft tunnel. Also the constant power from both the head-unit and powered sub were routed through the firewall and to the positive battery terminal, more on this in a later section.
 
-For the the connections from the Sony XAV-AX7000 to the Metra wiring harness that were 1:1 the [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3) were used. All other connections I used the [WAGO 221 LEVER-NUTS](https://www.wago.com/us/lp-221). The personal reason for this was to have the flexibility to add or remove cables from these "non-permanent" connections without worrying about having to cut and resolder the wires. This will be convenient in the event if a new electrical device gets added or removed. 
+For the the connections from the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) to the Metra wiring harness that were 1:1 the [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3) were used. All other connections I used the [WAGO 221 LEVER-NUTS](https://www.wago.com/us/lp-221). The personal reason for this was to have the flexibility to add or remove cables from these "non-permanent" connections without worrying about having to cut and resolder the wires. This will be convenient in the event if a new electrical device gets added or removed.
 
-All other wires that were not used were electrical taped off such as the Metra's yellow constant or the Sony XAV-AX7000 brown and green input wires.
+All other wires that were not used were electrical taped off such as the Metra's yellow constant or the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) brown and green input wires.
 
 ## Subwoofer
 
+So the subwoofer I went with was the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) which is a compact self powered 10" sub. For the same reason I got the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) I went with a self powered sub to save as much space as possible. I could not afford to use up any trunk space to put in a boxed sub and find somewhere to mount an amplifier.
 
+The best place I found to install this sub was under the passenger seat. With the addition of a few washers for the rear left bolt, the seat is able to slide back and forth without hitting the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10).
 
+![Kicker 46HS10 on floor behind passenger seat](/images/celica-audio-and-nav-upgrade/sub-behind-seat.jpg) *Kicker 46HS10 on floor behind passenger seat*
+
+![Kicker 46HS10 beneath passenger seat](/images/celica-audio-and-nav-upgrade/sub-under-seat.jpg) *Kicker 46HS10 beneath passenger seat*
+
+![Kicker 46HS10 hidden under passenger seat positioned all the way back](/images/celica-audio-and-nav-upgrade/sub-hidden-under-seat.jpg) *Kicker 46HS10 hidden under passenger seat positioned all the way back*
+
+**However** the grille on the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) does come in contact with the seat if there is someone sitting on the seat. The washers did help a bit, but to my knowledge there are only 3 options one can do to alleviate this or fix it completely.
+
+1. Buy the smaller 8" [Kicker Hideaway HS8](https://www.kicker.com/hideaway)
+    - It is 3-1/4" height vs 3-3/8"
+2. Hammer in the grille on the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10)
+    - The grille sticks out unnecessarily compared to the frame and can be hammered flat without sacrificing sound
+3. Lift the actual passenger seat
+    - This is a lot of work. I used some washers on the rear left bolt which aided a bit in raising the seat, but the rear right bolt on the passenger seat is bolted on the side of the driveshaft tunnel. So adding washers there would not accomplish anything. Some custom fabrication will be required
+
+The option that I went with is option #4, none of the above. Having someone in the seat did not affect the bass in any way nor create any unwanted rattle. However, if this grows to be a concern in the future i will probably go with option #2 as its the easiest.
+
+To conceal the wire connections, cutting/drilling a hole in the carpet near the bottom of the driveshaft tunnel proved to be quite good.
+
+![Kicker 46HS10 connection cable running through carpet near driveshaft tunnel](/images/celica-audio-and-nav-upgrade/sub-wires-through-carpet.jpg) *Kicker 46HS10 connection cable running through carpet near driveshaft tunnel*
+
+As seen in the picture above, I used a small step drill bit to cut a hole through the carpet. Make sure to cut this hole near the area where the connector on the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) will  be to avoid any bending. The cables can then be ran up the driveshaft tunnel without any pinching and up to the center console location.
+
+![Kicker 46HS10 connection cable coming out of the driveshaft tunnel](/images/celica-audio-and-nav-upgrade/sub-wires-coming-out-of-drivrshaft.jpg) *Kicker 46HS10 connection cable coming out of the driveshaft tunnel*
+
+Connecting the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) to the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) was really easy with the purchase of the [Kicker 46KISL car audio amp amplifier speaker wire](https://www.kicker.com/2-channel-speaker-rca-converter) and the [AudioQuest rca adapter](https://smile.amazon.com/gp/product/B0009MFRW0). Just use some [butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3) to connect the subwoofer harness audio wires to the Kicker 46KISL adapter. Then attach the adapter rca end to the AudioQuest RCA adapter and that to the sub-out port on the Sony XAV-AX7000. Since the harness and the RCA adapter are both from kicker the wire color scheme connections are really easy:
+
+|                        | Kicker 46HS10 | Kicker 46KISL |
+| ---------------------- | ------------- | ------------- |
+| Left Channel Positive  | White         | White         |
+| Left Channel Negative  | White/Black   | White/Black   |
+| Right Channel Positive | Grey          | Grey          |
+| Right Channel Negative | Text          | Grey/Black    |
+
+Mounting the subwoofer is also really easy. The [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) does come with a few mounting brackets inside, but there was no real way to attach it to anything under the passenger seat. What I ended up doing is attaching two really long strips of double sided velcro to the back of the unit, but just using the side with the hooks so it can sink in and grab unto the carpet.
+
+![Kicker 46HS10 with double sided adhesive velcro strap attached to the back of it](/images/celica-audio-and-nav-upgrade/sub-with-velcro-strip.jpg) *Kicker 46HS10 with double sided adhesive velcro strap attached to the back of it*
+
+Upon testing, once the velcro strips grab unto the carpet, it is not going anywhere. Keep in mind that removing this is a real pain in the butt unless you remove the passenger seat (learn from my dumb mistakes). Save this step for the end once everything else is done.
+
+## Constant Battery Terminal Power
+
+Both the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) and the [Sony XAV-AX7000](https://electronics.sony.com/audio/) are required/recommended to be connected directly to the car's positive battery terminal. This means you will have to run cables through the car's firewall. Luckily the ST205 has a convenient grommet you can go through on the passenger side.
+
+## Reverse Camera
+
+## Optional Tweeters
+
+## Head Unit USB Port
+
+- [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3)
 - [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000)
 - [Polk Audio DB 6502](https://www.polkaudio.com/en-us/product/db-series/db6502)
 - [Polk Audio DB 5252](https://www.polkaudio.com/en-us/product/db-series/db5252)
