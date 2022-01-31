@@ -40,7 +40,7 @@ These are just the equipment I used for this project, feel free to swap whatever
          </li>
          <li><a href="https://www.kicker.com/hideaway-hs10">Kicker 46HS10</a></li>
          <li>
-            <a href="https://smile.amazon.com/gp/product/B07H852D49">NATIKA Backup/Front View Camera</a>
+            <a href="https://smile.amazon.com/gp/product/B07H852D49">NATIKA Backup Camera</a>
          </li>
          <li>
             <a href="https://smile.amazon.com/gp/product/B01MY1WDIU">2 Ports Dual USB 3.0</a>
@@ -78,6 +78,9 @@ These are just the equipment I used for this project, feel free to swap whatever
           </li>
           <li>
             <a href="https://smile.amazon.com/gp/product/B073RMRCC3">Kuject butt connectors</a>
+          </li>
+          <li>
+            <a href="https://www.crutchfield.com/p_007CK12/Crutchfield-CK12.html">Crutchfield CK12</a>
           </li>
         </ul>
       </td>
@@ -154,7 +157,7 @@ Now on the Mr. Brightside I wanted to use the Polk Audio DB speakers regardless 
 
 ![Polk Audio DB5252 inside rear Celica speaker bracket](/images/celica-audio-and-nav-upgrade/rear-new-speaker-inside-old-frame.jpg) *Polk Audio DB5252 inside rear Celica speaker bracket*
 
-As you can see the mounting screws do not line up properly on either bracket. The front speaker brackets have a screw spacing of 8" and the rear speaker bracket has a screw spacing of 6.25". I can't recall exactly, but I kinda remember trying the 6.25" DB6502 speaker in the rear and it *STILL* did not line up properly. Looking online I found some threads stating certain 8" speakers worked like the [Focal ISU 200](https://www.focal.com/en/car-audio/car-audio-kits-solutions/integration/universal/component-kits/isu200) will work on the front speaker bracket without any modifications, but chances are the speakers you prefer or want buy will require some modification and crafting.
+As you can see the mounting screws do not line up properly on either bracket. The front speaker brackets have a screw spacing of 8" and the rear speaker bracket has a screw spacing of 6.25". I can't recall exactly, but I kinda remember trying the 6.25" DB6502 speaker in the rear and it **STILL** did not line up properly. Looking online I found some threads stating certain 8" speakers worked like the [Focal ISU 200](https://www.focal.com/en/car-audio/car-audio-kits-solutions/integration/universal/component-kits/isu200) will work on the front speaker bracket without any modifications, but chances are the speakers you prefer or want to buy will require some modification and crafting.
 
 Hopefully you are better equipped than me, but all the following custom speaker adapters were done with just a [Dremel 4000-6/50](https://us.dremel.com/en_US/products/-/show-product/tools/4000-6-50-high-performance-rotary-tool-kit?bvroute=Reviews%2FshowHelpfulPositive). The adapters a little sloppy around the edges, but It did not turn out too bad.
 
@@ -450,7 +453,7 @@ Connecting the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) to the [Son
 | Left Channel Positive  | White         | White         |
 | Left Channel Negative  | White/Black   | White/Black   |
 | Right Channel Positive | Grey          | Grey          |
-| Right Channel Negative | Text          | Grey/Black    |
+| Right Channel Negative | Grey/Black    | Grey/Black    |
 
 Mounting the subwoofer is also really easy. The [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) does come with a few mounting brackets inside, but there was no real way to attach it to anything under the passenger seat. What I ended up doing is attaching two really long strips of double sided velcro to the back of the unit, but just using the side with the hooks so it can sink in and grab unto the carpet.
 
@@ -460,9 +463,33 @@ Upon testing, once the velcro strips grab unto the carpet, it is not going anywh
 
 ## Constant Battery Terminal Power
 
-Both the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) and the [Sony XAV-AX7000](https://electronics.sony.com/audio/) are required/recommended to be connected directly to the car's positive battery terminal. This means you will have to run cables through the car's firewall. Luckily the ST205 has a convenient grommet you can go through on the passenger side.
+Both the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) and the [Sony XAV-AX7000](https://electronics.sony.com/audio/) are required/recommended to be connected directly to the car's positive battery terminal. This means you will have to run cables through the car's firewall. Luckily the ST205 has a convenient grommet you can go through on the passenger side. Located on the right side of the engine bay in the rear remove the two nuts holding the grommet and lift out (The grommet might be seized on, so some elbow grease might be required to yank off).
+
+![Firewall grommet unsecured with two red power cables running through](/images/celica-audio-and-nav-upgrade/firewall-grommet-power-wires.jpg) *Firewall grommet unsecured with two red power cables running through*
+
+![Wires running below Firewall grommet wrapped in plastic shielding](/images/celica-audio-and-nav-upgrade/power-wires-under-gommet.jpg) *Wires running below Firewall grommet wrapped in plastic shielding*
+
+In the image above you can see I decided to run the power cables to the head unit and subwoofer underneath the grommet itself. You could also slit a hole through the rubber grommet and run it directly through. The Kicker 46HS10 already came with wiring to connect to the battery. For the Sony XAV-AX7000 I went with the [Crutchfield CK12](https://www.crutchfield.com/p_007CK12/Crutchfield-CK12.html) wiring kit to connect to the battery. After running the cables through the grommet and cutting it to the proper length, just connect it to the positive battery terminal and neatly apply some cable management to the wire to avoid any interference. You could also decide like myself to extend the Crutchfield CK12 lead to be able to hide the fuse on the right side the battery
+
+![Head-unit and subwoofer power wiring connected to positive battery terminal](/images/celica-audio-and-nav-upgrade/sub-and-headunit-power-connected.jpg) *Head-unit and subwoofer power wiring connected to positive battery terminal*
+
+While this is properly and safely connected, I didn't like the look of these cables connecting to the battery terminal this way. I also have plans on adding fog lights which means I will have yet another cable connected to the terminal. This is where the [T-SPEC - Battery Terminal](https://www.tspeconline.com/product/V-BATT-TML) comes in. This terminal allows for 4 cable connections to be attached to the battery terminal. To get this installed just cut the existing terminal connector off of the starter and harness wire (I think this is what these are). Make sure to cut as little as possible as it will be a real pain to run new wires if cut too short.
+
+![Existing starter and harness power cable cut](/images/celica-audio-and-nav-upgrade/main-starter-sire-cut.jpg) *Existing starter and harness power cable cut*
+
+Once cut we now need to extend them to be able to reach the battery terminal once again. I cut off my desired length of cable from the [THIKPO G420 Jumper Cables](https://smile.amazon.com/gp/product/B08LW5HFPL) I purchased and attached it to the existing thicker starter cable (I think) using the  [Gardner Bender HSB-28](https://www.gardnerbender.com/en/p/HSB-28/Butt-Splice-Kit-8-2-AWG) to make the connection.
+
+![Starter cable extended and connected to the T-SPEC connector with the harness cable extended as well](/images/celica-audio-and-nav-upgrade/tspec-with-main-starter-connected.jpg) *Starter cable extended and connected to the T-SPEC connector*
+
+I then cut off the ring terminals off the subwoofer and the Crutchfield CK12 wiring kit and attached them all to the T-SPEC connector.
+
+![All power wires connected to the T-SPEC terminal](/images/celica-audio-and-nav-upgrade/tspec-battery-terminal-done.jpg) *All power wires connected to the T-SPEC terminal*
+
+As you can see I left a spot for my future fog lights on T-SPEC. One thing to note about this T-SPEC terminal is it did not properly fit on the battery terminal node. I had to actually pry it open a bit further and find a longer bolt to be able to secure it in properly. This might vary from battery to battery, but keep this in mind.
 
 ## Reverse Camera
+
+The rear view camera I opted for was the [NATIKA Backup/Front View Camera](https://smile.amazon.com/gp/product/B07H852D49). It is well reviewed and has decent picture quality for a pretty cheap camera. Unless you have a very specific reason, there is no need to get an expensive camera or anything with crazy high resolution since the main purpose of a back-up camera is to tell you if you are going to hit something or not.
 
 ## Optional Tweeters
 
