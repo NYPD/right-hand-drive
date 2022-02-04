@@ -30,57 +30,57 @@ These are just the equipment I used for this project, feel free to swap whatever
       <td>
         <ul>
          <li>
-            <a href="https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000">Sony XAV-AX7000</a>
+            <a href="https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000" target="_blank">Sony XAV-AX7000</a>
          </li>
          <li>
-            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502">Polk Audio DB 6502</a>
+            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502" target="_blank">Polk Audio DB 6502</a>
          </li>
          <li>
-            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502">Polk Audio DB 5252</a>
+            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502" target="_blank">Polk Audio DB 5252</a>
          </li>
-         <li><a href="https://www.kicker.com/hideaway-hs10">Kicker 46HS10</a></li>
+         <li><a href="https://www.kicker.com/hideaway-hs10" target="_blank">Kicker 46HS10</a></li>
          <li>
-            <a href="https://smile.amazon.com/gp/product/B07H852D49">NATIKA Backup Camera</a>
-         </li>
-         <li>
-            <a href="https://smile.amazon.com/gp/product/B01MY1WDIU">2 Ports Dual USB 3.0</a>
+            <a href="https://smile.amazon.com/gp/product/B07H852D49" target="_blank">NATIKA Backup Camera</a>
          </li>
          <li>
-            <a href="https://www.tspeconline.com/product/V-BATT-TML">T-SPEC - Battery Terminal</a>
+            <a href="https://smile.amazon.com/gp/product/B01MY1WDIU" target="_blank">2 Ports Dual USB 3.0</a>
          </li>
          <li>
-         <a href="https://www.ebay.com/itm/123987238944">Parking bypass for Head Unit</a>
+            <a href="https://www.tspeconline.com/product/V-BATT-TML" target="_blank">T-SPEC - Battery Terminal</a>
+         </li>
+         <li>
+         <a href="https://www.ebay.com/itm/123987238944" target="_blank">Parking bypass for Head Unit</a>
          </li>
         </ul>
       </td>
       <td>
         <ul>
           <li>
-            <a href="https://www.kicker.com/2-channel-speaker-rca-converter">Kicker 46KISL Car Audio Amp Amplifier Speaker Wire</a>
+            <a href="https://www.kicker.com/2-channel-speaker-rca-converter" target="_blank">Kicker 46KISL Car Audio Amp Amplifier Speaker Wire</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B0009MFRW0">AudioQuest adapter</a>
+            <a href="https://smile.amazon.com/gp/product/B0009MFRW0" target="_blank">AudioQuest adapter</a>
           </li>
           <li>
-            <a href="https://www.gardnerbender.com/en/p/HSB-28/Butt-Splice-Kit-8-2-AWG">Gardner Bender HSB-28</a>
+            <a href="https://www.gardnerbender.com/en/p/HSB-28/Butt-Splice-Kit-8-2-AWG" target="_blank">Gardner Bender HSB-28</a>
           </li>
           <li>
-            <a href="https://www.wago.com/us/lp-221">WAGO 221 LEVER-NUTS</a>
+            <a href="https://www.wago.com/us/lp-221" target="_blank">WAGO 221 LEVER-NUTS</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B01LZRV0HV">TYUMEN 40FT 18 Gauge 2pin Cable</a>
+            <a href="https://smile.amazon.com/gp/product/B01LZRV0HV" target="_blank">TYUMEN 40FT 18 Gauge 2pin Cable</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B08LW5HFPL">THIKPO G420 Jumper Cables</a>
+            <a href="https://smile.amazon.com/gp/product/B08LW5HFPL" target="_blank">THIKPO G420 Jumper Cables</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B07V35375X">Nilight Quick Disconnect Terminals</a>
+            <a href="https://smile.amazon.com/gp/product/B07V35375X" target="_blank">Nilight Quick Disconnect Terminals</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B073RMRCC3">Kuject butt connectors</a>
+            <a href="https://smile.amazon.com/gp/product/B073RMRCC3" target="_blank">Kuject butt connectors</a>
           </li>
           <li>
-            <a href="https://www.crutchfield.com/p_007CK12/Crutchfield-CK12.html">Crutchfield CK12</a>
+            <a href="https://www.crutchfield.com/p_007CK12/Crutchfield-CK12.html" target="_blank">Crutchfield CK12</a>
           </li>
         </ul>
       </td>
@@ -463,7 +463,7 @@ Upon testing, once the velcro strips grab unto the carpet, it is not going anywh
 
 ## Constant Battery Terminal Power
 
-Both the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) and the [Sony XAV-AX7000](https://electronics.sony.com/audio/) are required/recommended to be connected directly to the car's positive battery terminal. This means you will have to run cables through the car's firewall. Luckily the ST205 has a convenient grommet you can go through on the passenger side. Located on the right side of the engine bay in the rear remove the two nuts holding the grommet and lift out (The grommet might be seized on, so some elbow grease might be required to yank off).
+Both the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) and the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) are required/recommended to be connected directly to the car's positive battery terminal. This means you will have to run cables through the car's firewall. Luckily the ST205 has a convenient grommet you can go through on the passenger side. Located on the right side of the engine bay in the rear remove the two nuts holding the grommet and lift out (The grommet might be seized on, so some elbow grease might be required to yank off).
 
 ![Firewall grommet unsecured with two red power cables running through](/images/celica-audio-and-nav-upgrade/firewall-grommet-power-wires.jpg) *Firewall grommet unsecured with two red power cables running through*
 
@@ -489,7 +489,80 @@ As you can see I left a spot for my future fog lights on T-SPEC. One thing to no
 
 ## Reverse Camera
 
-The rear view camera I opted for was the [NATIKA Backup/Front View Camera](https://smile.amazon.com/gp/product/B07H852D49). It is well reviewed and has decent picture quality for a pretty cheap camera. Unless you have a very specific reason, there is no need to get an expensive camera or anything with crazy high resolution since the main purpose of a back-up camera is to tell you if you are going to hit something or not.
+The rear view camera I opted for was the [NATIKA Backup/Front View Camera](https://smile.amazon.com/gp/product/B07H852D49). It is well reviewed and has decent picture quality for a pretty cheap camera. Unless you have a very specific reason, there is no need to get an expensive camera or anything with crazy high resolution since the main purpose of a back-up camera is to tell you if you are going to hit something or not. The place I settled to install the camera is the rear center panel. To get this panel off you will need to first remove all trunk trim panels. These are very straightforward and if you already removed the rear seats in the previous steps you will have easy access to the screws and plastic trim clips. You don't have to fully remove the panels, just enough to have enough space to work in. Once you are done with the panels the next step is to remove the rear tail lights. The rear tail lights are held in by three nuts as show below:
+
+![Right rear taillight removed with nut locations circled](/images/celica-audio-and-nav-upgrade/rear-tail-light-removed.jpg) *Right rear taillight removed with nut locations circled*
+
+My 1996 ST205 did not have any weather adhesive holding the rear taillights in like my 1994 STi (might be the same with all other ST205s). So with a little wiggling they were able to come off easily. Once the taillights are removed you will then see these two nuts (mine were pretty rusty) on either side of the rear center panel:
+
+![Rear center panel bolt shown](/images/celica-audio-and-nav-upgrade/rear-center-panel-bolt.jpg) *Rear center panel bolt shown (9016360010)*
+
+Once both bolts are remove the only thing holding this in place are 8 plastic retainers as seen here:
+
+![Rear center panel removed with plastic retainers circled](/images/celica-audio-and-nav-upgrade/rear-center-panel-removed-side-view.jpg) *Rear center panel removed with plastic retainers circled*
+
+The best way I found to remove these was spray a little bit of lubricant on the retainers themselves and using a rubber mallet to carefully hammer the retainers out from the trunk. Once you popped out all the retainers, unplug the rear license plate light cable and you are done.
+
+![Rear center panel removed completely](/images/celica-audio-and-nav-upgrade/rear-center-panel-removed-completley.jpg) *Rear center panel removed completely*
+
+Next step is to drill a hole in the panel for the backup camera (The NATIKA instructions recommended a 5/16" drill bit a believe). The place I settled for was the top of the panel above the license plate mounts:
+
+![Rear center panel with hole drilled on top](/images/celica-audio-and-nav-upgrade/rear-center-panel-with-hole-drilled-for-camera.jpg) *Rear center panel with hole drilled on top*
+
+![Rear center panel with hole drilled on top inside view](/images/celica-audio-and-nav-upgrade/rear-center-panel-with-hole-drilled-for-camera-2.jpg) *Rear center panel with hole drilled on top inside view*
+
+To drill this hole I had to remove the bracket that held in the license plate lights. I then placed on the rear camera to make sure everything aligned well and was flush.
+
+![Rear center panel with camera placed](/images/celica-audio-and-nav-upgrade/rear-center-panel-with-rear-camera-placed.jpg) *Rear center panel with camera placed*
+
+Once everything looks good, the last thing you will need to do is cut a hole on the license plate light bracket to allow the nut for the camera to spin freely and secure the camera on:
+
+![Rear center panel showing camera installation nut](/images/celica-audio-and-nav-upgrade/rear-center-panel-showing-rear-camera-nut.jpg) *Hole cut on license plate light bracket to allow for nut spinning*
+
+Once the camera is secure, run the camera wire into the trunk. I decided to use the existing grommet for the license plate lights cable. A more professional option would have been to drill a new hole for it, but this was works well enough. Now all that is left is to install everything in reverse order and with a bit of cleaning the final result will look pretty good:
+
+![Rear center panel installed with NATIKA back-up camera](/images/celica-audio-and-nav-upgrade/rear-center-panel-installed-with_camera.jpg) *Rear center panel installed with NATIKA back-up camera*
+
+Now run the camera wires back to the center console to plug into the head unit. I decided to run the wires on the passenger side and through a channel in the passenger door sill:
+
+![Passenger door sill plate wire channel](/images/celica-audio-and-nav-upgrade/passanger-door-sill-plate-wire-channel.jpg) *Passenger door sill plate wire channel*
+
+With all the interior trim removed from the speaker installation this should be very easy. Just take your time and do some proper cable management. Also keep in mind that the NATIKA back-up camera comes with built in guide lines with the option to remove them bu cutting certain wires on the camera (read the instructions). I would recommend to not cut them yet and wait till everything is attached to the head unit for you to decide if you prefer the built in guide lines or use the ones on the Sony XAV-AX7000. I opted for the built in NAKITA guide lines and turned off the Sony guide lines in the settings.
+
+### Reverse Camera Indicator
+
+So the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) has a feature (along with probably all other modern head units) that switches to reverse camera automatically when the car is put to reverse gear. This is the Purple/white wire on the Sony XAV-AX7000. Unfortunately the ST205 at least for the 1996 model does not feature a reverse indicator on the main harness. This means you will have to do some hunting on where to connect the purple/white wire to. There are two options you can do when it comes to the ST205.
+
+1. Connect to the back-up light switch (Either the IL1 or IG1 connector)
+2. Connect directly to the reverse tail light switch
+
+Here is the diagram of the back-up switch:
+
+![ST205 Back-up switch diagram](/images/celica-audio-and-nav-upgrade/back-up-switch-diagram.png) *ST205 Back-up switch diagram (Pin 9 for IL1 and pin 10 for IG1)*
+
+The IL1 connector is located in the engine near the engine control module:
+
+![IL1 Connector Location](/images/celica-audio-and-nav-upgrade/back-up-switch-il1.png) *IL1 Connector Location*
+
+The IG1 is located in the kick panel:
+
+![IG1 Connector Location](/images/celica-audio-and-nav-upgrade/back-up-switch-ig1.png) *IG1 Connector Location*
+
+I initially opted for the first option, but unfortunately I could not find the IG1 connection at all. The diagrams I provided were all the information I was going off and the diagram itself is reversed (it shows a left hand drive car). I think the IG1 is actually on the driver side somewhere, but i'm not 100% sure. I could have traced the rear tail-light wire from the lights, to the BQ1 connector (which is located on the right rear side near the suspension pillar), all the way to the IG1 connector, but even if I did find it there is hardly any room down near the foot panel. This would have been very annoying trying to splice a wire down there so instead I went with option #2.
+
+Option #2 is the easiest and what I would recommend. If you already took off the trim and lights trying to install the reverse camera, this is incredibly easy.
+
+First find the connector for the rear tail light. I choose to the rear-left light as I was already running the reverse camera through the passenger side. Once you found the connector, unplug it and find the red/white wire on it. This is the power to the back-up bulb (might not hurt to double check this with a buddy and a multi meter).
+
+Once you find the correct wire, cut it and attach a 3 conductor [WAGO 221 lever nuts](https://www.wago.com/us/lp-221) to it. Two ports to restore the original connection, the third port to connect to the head unit.
+
+![Rear left taillight splice with a WAGO 221 connector](/images/celica-audio-and-nav-upgrade/rear-taillight-splice.jpg) *Rear left taillight splice with a WAGO 221 connector*
+
+The wire I used to attach to the Wago 221 lever nut and run to the head unit was a 18 gauge [TYUMEN 40FT 2 Pin](https://smile.amazon.com/gp/product/B01LZRV0HV) wire. I simply cut it to length and removed the black wire to make it a single wire going back to the center console.
+
+If everything is connected properly, the head unit will now automatically switch to rear camera once the reverse gear is engaged:
+
+![Sony XAV-AX7000 reverse camera display](/images/celica-audio-and-nav-upgrade/rear-view-camera-display.jpg) *Sony XAV-AX7000 reverse camera display*
 
 ## Optional Tweeters
 
