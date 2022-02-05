@@ -1,11 +1,11 @@
 ---
 title: "Celica Audio and Nav Upgrade"
-summary: "A sort-of helpful guide on how to remove the Toyota ST205's stock audio system and then adding a complete new sound system with a reverse camera and dash cam setup."
+summary: "A sort-of helpful guide on how to remove the Toyota ST205's stock audio system and then adding a complete new sound system with a reverse camera."
 description: "Upgrading 1996 Celica audio equipment to the 21st century"
 date: 2022-01-18T19:52:22-07:00
 draft: true
 toc: false
-tags: ['component speakers', 'head unit', 'reverse camera', 'dash cam']
+tags: ['component speakers', 'head unit', 'reverse camera']
 categories: ['ST205']
 ---
 
@@ -608,22 +608,26 @@ If you are wondering what decibel I set the tweeters to I chose 3db. 6db is what
 
 ## Head Unit USB Port
 
-- [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3)
-- [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000)
-- [Polk Audio DB 6502](https://www.polkaudio.com/en-us/product/db-series/db6502)
-- [Polk Audio DB 5252](https://www.polkaudio.com/en-us/product/db-series/db5252)
-- [NATIKA Backup/Front View Camera](https://smile.amazon.com/gp/product/B07H852D49)
-- [2 Ports Dual USB 3.0](https://smile.amazon.com/gp/product/B01MY1WDIU)
-- [T-SPEC - Battery Terminal](https://www.tspeconline.com/product/V-BATT-TML)
-- [Kicker 46KISL Car Audio Amp Amplifier Speaker Wire](https://www.kicker.com/2-channel-speaker-rca-converter)
-- [AudioQuest adapter](https://smile.amazon.com/gp/product/B0009MFRW0)
-- [Gardner Bender HSB-28](https://www.gardnerbender.com/en/p/HSB-28/Butt-Splice-Kit-8-2-AWG)
-- [WAGO 221 LEVER-NUTS](https://www.wago.com/us/lp-221)
-- [TYUMEN 40FT 18 Gauge 2pin 2 Color](https://smile.amazon.com/gp/product/B01LZRV0HV)
-- [THIKPO G420 Jumper Cables](https://smile.amazon.com/gp/product/B08LW5HFPL)
-- [Nilight Quick Disconnect Terminals](https://smile.amazon.com/gp/product/B07V35375X)
-- [Dremel 4000-6/50](https://us.dremel.com/en_US/products/-/show-product/tools/4000-6-50-high-performance-rotary-tool-kit?bvroute=Reviews%2FshowHelpfulPositive)
-- [ZELCAN Large Step Drill Bit](https://smile.amazon.com/gp/product/B07CMPH9VY/)
-- Standard screw drivers
-- Trim removal tools
-- [Jet Line / Pull Line](https://smile.amazon.com/Breaking-Strength-Klein-Tools-56108/dp/B0026TA6WK)
+So the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) comes with two USB female connector cables which are used for wired Android Auto/Apple Carplay and media playback. To hide the wires and make it look official/OEM, I decided to install a [2 Ports Dual USB 3.0 mount](https://smile.amazon.com/gp/product/B01MY1WDIU). The best place I found to install this was inside the center console box. With the shift boot out of the way from the previous step, unbolt the center console box and remove it from the car.
+
+![Side shot of the center console box](/images/celica-audio-and-nav-upgrade/center-console-box.webp) *Side shot of the center console box*
+
+Next take the step drill bit and drill a hole for the USB mount. The place I opted for was near the bottom of the center console box storage compartment:
+
+{{< rawhtml >}}
+<div class="double-image-container">
+  <img src="/images/celica-audio-and-nav-upgrade/center-console-box-usb-installed.webp"
+      alt="USB mount installed inside center console box"
+      data-zoomable=""
+      class="medium-zoom-image">
+  <img src="/images/celica-audio-and-nav-upgrade/center-console-box-hole-usb.webp"
+      alt="center console box with hole for USB mount"
+      data-zoomable=""
+      class="medium-zoom-image">
+</div>
+<em>USB mount installed inside the center console box</em>
+{{< /rawhtml >}}
+
+Now simply re-install the center console box and route up the USB wires to the head unit. The placement is a bit awkward to connect a USB cable to, but if you leave a USB type C cable connected to it all the time it's not really a big deal (you can roll it up and leave it inside the compartment). Plus I personally don't use phone navigation much unless i'm going on a long road trip.
+
+## Summary

@@ -1,11 +1,12 @@
 .container[role=main] {
   max-width: 775px;
 }
-.image-p {
+.image-p,
+em {
   text-align: center;
 }
 
-.image-p > img {
+img {
    max-height: 500px;
 }
 
@@ -17,4 +18,9 @@ table {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+.double-image-container {
+  display: flex;
+  justify-content: space-evenly;
 }

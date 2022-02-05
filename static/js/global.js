@@ -1,6 +1,8 @@
 document.querySelectorAll('img').forEach((image) => {
   image.setAttribute('data-zoomable', '') 
-  image.parentElement.classList.add('image-p')
+  var parentElement = image.parentElement;
+  if(parentElement.nodeName === 'P')  
+    image.parentElement.classList.add('image-p');
 });
 
 mediumZoom('[data-zoomable]');
