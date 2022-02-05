@@ -15,7 +15,7 @@ categories: ['ST205']
 
 So you bought yourself a JDM ST205 and want to upgrade the sound system to the 21st century? Well you are in luck as the process is very straight forward and hopefully with this article you will be able to do it easily and be ready for any roadblocks that I've run into.  
 
-This article is not a complete guide and will assume you are capable of removing panels, soldering connections, crafting mounts, etc.
+This article is not a complete guide and will assume you are capable of removing panels, soldering connections, crafting mounts, etc. This is also my first article on the site so formatting and flow will probably be wonky.
 
 ## Equipment Used
 
@@ -141,7 +141,7 @@ Once you are done removing all the necessary trim you can now unplug and unscrew
 
 ![Old rear speakers](/images/celica-audio-and-nav-upgrade/rear-old-speakers.jpg) *Old rear speakers*
 
-The front speaker diaphragms were a bit petrified and the foam was starting to fall apart. The rears faired a bit better, but still in a poor state. I'm not too knowledgeable when it comes to speaker technology, but to me this is one of the downsides to using paper as a woofer material. Humid conditions, like the ones found in Japan, lead to a deterioration in the speakers over time. Now granted this is over 25+ years, but i'm sure if polypropylene cones were used back then (if the technology existed in the 90's not sure) the old oem speakers would have held off much better. I'm sure paper technology and chemical coatings have come a long way since then, but im still hesitant to use or recommend paper speaker woofers because of this. These were not so bad compared to the ones found on my 1994 WRX STi:
+The front speaker diaphragms were a bit petrified and the foam was starting to fall apart. The rears faired a bit better, but still in a poor state. I'm not too knowledgeable when it comes to speaker technology, but to me this is one of the downsides to using paper as a woofer material. Humid conditions, like the ones found in Japan, lead to a deterioration in the speakers over time. Now granted this is over 25+ years, but i'm sure if polypropylene cones were used back then (if the technology existed in the 90's not sure) the old oem speakers would have held off much better. Paper technology and chemical coatings have probably come a long way since then, but im still hesitant to use or recommend paper speaker woofers because of this. These were not so bad compared to the ones found on my 1994 WRX STi:
 
 ![Old GC8 speaker](/images/celica-audio-and-nav-upgrade/old-gc8-speaker.jpg) *Really old and petrified 1994 WRX STi speaker*
 
@@ -151,7 +151,7 @@ Regardless, with this mini rant out of the way lets move on to the next section.
 
 Take the new speakers you ordered, remove them from their packaging, and then come to the realization that they do not fit properly and the included speaker adapters won't work either. Unfortunately I ran into this issue when my small brain blindly trusted Crutchfield that a 6.5" speaker will work in the front and a 5.25" speaker will work in the back.
 
-Now on the Mr. Brightside I wanted to use the Polk Audio DB speakers regardless as they are reviewed very well and I have used them in my 94 STi and liked the quality. Here are the new speaker in comparison to the Celica speaker brackets:
+Now on the Mr. Brightside I wanted to use the Polk Audio DB speakers regardless as they are reviewed very well and I have used them in my 94 STi and liked the quality. Here are the new speakers in comparison to the Celica speaker brackets:
 
 ![Polk Audio DB6502 inside front Celica speaker bracket](/images/celica-audio-and-nav-upgrade/front-new-speaker-inside-old-frame.jpg) *Polk Audio DB6502 inside front Celica speaker bracket*
 
@@ -193,7 +193,7 @@ The front speaker adapters are much easier to cut out than the rears. The rears 
 
 ![Cutting through the weatherstrip adhesive on the front speaker and bracket using a small pick](/images/celica-audio-and-nav-upgrade/front-speaker-sticky-stuff.jpg) *Cutting through the weatherstrip adhesive on the front speaker and bracket using a small pick*
 
-After you pry the speaker off and desolder the wires off, flip that speaker over on top your wood panel, trace the speaker outline and screw holes, and then start cutting.
+After you pry the speaker off and desoldering the wires off, flip that speaker over on top your wood panel, trace the speaker outline and screw holes, and then start cutting.
 
 ![Front speaker flipped over on birch plywood](/images/celica-audio-and-nav-upgrade/front-speaker-flipped-on-birch.jpg) *Front speaker flipped over on birch plywood*
 
@@ -409,7 +409,7 @@ Now here are the actual connections you will need to make. I've also added conne
 </table>
 {{< /rawhtml >}}
 
-To clear a little confusion from the first table, both the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) and the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10)were grounded to the chassis. Using a ring terminal the Sony was grounded to a nut/bolt behind the center console and the Kicker to the a nut/bolt on the driveshaft tunnel. Also the constant power from both the head-unit and powered sub were routed through the firewall and to the positive battery terminal, more on this in a later section.
+To clear a little confusion from the first table, both the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) and the [Kicker 46HS10](https://www.kicker.com/hideaway-hs10) were grounded to the chassis. Using a ring terminal the Sony was grounded to a nut/bolt behind the center console and the Kicker to the a nut/bolt on the driveshaft tunnel. Also the constant power from both the head-unit and powered sub were routed through the firewall and to the positive battery terminal, more on this in a later section.
 
 For the the connections from the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000) to the Metra wiring harness that were 1:1 the [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3) were used. All other connections I used the [WAGO 221 LEVER-NUTS](https://www.wago.com/us/lp-221). The personal reason for this was to have the flexibility to add or remove cables from these "non-permanent" connections without worrying about having to cut and resolder the wires. This will be convenient in the event if a new electrical device gets added or removed.
 
@@ -565,6 +565,46 @@ If everything is connected properly, the head unit will now automatically switch
 ![Sony XAV-AX7000 reverse camera display](/images/celica-audio-and-nav-upgrade/rear-view-camera-display.jpg) *Sony XAV-AX7000 reverse camera display*
 
 ## Optional Tweeters
+
+I am not fully certain, but it seems tweeters were a dealer upgrade back in the 90's for the ST205. If you look around the web, the side mirror trim pieces either have a tweeter frame built in to it or are just flat. The ones in my ST205 were flat (part number 6749120320 and 6749220320). Also even though my ST205 did not come with factory tweeters, there seems to be a connector for them on the door frame right next to the main door speaker. This is just some random potentially helpful information.
+
+The [Polk Audio DB 6502](https://www.polkaudio.com/en-us/product/db-series/db6502) speakers came with tweeters and a passive crossover to hook everything into. The [Polk Audio DB 5252](https://www.polkaudio.com/en-us/product/db-series/db5252) also came with the same tweeter and crossover setup, but 4 tweeters is way too much. Since I wanted crispy highs I opted to custom install two tweeters in the front and the location I chose to mount them was the side mirror trim pieces.
+
+The first thing I needed was the [ZELCAN Large Step Drill Bit](https://smile.amazon.com/gp/product/B07CMPH9VY/). This had the perfect hole size to allow the tweeter housing to pass through. Just center the housing, punch a pilot hole through and then drill to the appropriate size.
+
+![Punching a pilot hole through the side mirror trim using a heated pick](/images/celica-audio-and-nav-upgrade/tweeter-hole-punch-out.jpg) *Punching a pilot hole through the side mirror trim using a heated pick*
+
+![Hole drilled on side mirror trim for tweeter housing](/images/celica-audio-and-nav-upgrade/tweeter-hole-cut-on-side-mirror-trim.jpg) *Hole drilled on side mirror trim for tweeter housing*
+
+![Tweeter installed on side mirror trim](/images/celica-audio-and-nav-upgrade/tweeter-placed-on-side-mirror-trim.jpg) *Tweeter installed on side mirror trim to check fitting*
+
+![Side mirror trim with new tweeter installed on car](/images/celica-audio-and-nav-upgrade/tweeter-sidemirror-trim-installed.jpg) *Side mirror trim with new tweeter installed on car*
+
+Once you finished both side mirrors the next step is to find a place to install the passive crossover without it interfering anything. The best place I found was near the upper door frame here:
+
+![Polk Audio crossover placed temporarily on door frame with tape](/images/celica-audio-and-nav-upgrade/tweeter-crossover-taped-temp.jpg) *Polk Audio crossover placed temporarily on door frame with tape*
+
+![Door panel installed with Polk Audio crossover to check for fitment](/images/celica-audio-and-nav-upgrade/tweeter-door-panel-installed-over-crossover.jpg) *Door panel installed with Polk Audio crossover to check for fitment*
+
+I put on the door panel to make sure I was able to install it later without having to bend and break something at the end. Once I knew this location would work I secured the crossover housing with double sided velcro adhesive and cable ties. There is definitely a better way to install this crossover most likely, but this is the best my noggin and lack of tools can come up with. Now you need to extend all the speaker wires for everything to reach the crossover mounted location.
+
+- The main speaker connector on the doors needs to be cut off and extended
+- The main signal wire from the harness (that was cut off from the connector) needs to be extended to reach the crossover
+- The tweeter wire needs to be extended
+
+This is a total of 6 wires that will need to be extended. I used the spare speaker wire that came in the Polk Audio DB 6502 package for all these extensions.
+
+![Polk Audio crossover securely installed and connected to](/images/celica-audio-and-nav-upgrade/tweeter-crossover-securly-placed.jpg) *Polk Audio crossover securely installed and connected to*
+
+If you secured the Polk Audio crossover using my cable tie method you will run into the issue where the cover does not sit properly on the housing. To resolve this I simply filled a groove on the housing where the cable tie is and was able to put on the cover no problem.
+
+![Polk Audio crossover with hole filled on edge](/images/celica-audio-and-nav-upgrade/tweeter-crossover-cover-with-hole-made.jpg) *Polk Audio crossover with hole filled on edge*
+
+![Polk Audio crossover cover installed](/images/celica-audio-and-nav-upgrade/tweeter-crossover-cover-installed.jpg) *Polk Audio crossover cover installed*
+
+If you are wondering what decibel I set the tweeters to I chose 3db. 6db is what came by default and was a bit too loud for my taste. I actually didn't know the crossover had a tweeter decibel setting until I removed the cover to do the custom mounting. The decibel selection is in the upper left corner of the housing.
+
+![Polk Audio crossover tweeter decibel setting set to 3db](/images/celica-audio-and-nav-upgrade/tweeter-crossover-set-to-3db.jpg) *Polk Audio crossover tweeter decibel setting set to 3db*
 
 ## Head Unit USB Port
 
