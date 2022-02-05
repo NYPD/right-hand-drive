@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+.image-p > img {
+   max-height: 500px;
+}
+
 em {
   display: block;
 }
