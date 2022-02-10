@@ -1,4 +1,4 @@
-document.querySelectorAll('img').forEach((image) => {
+document.querySelectorAll('.container img').forEach((image) => {
   image.setAttribute('data-zoomable', '') 
   var parentElement = image.parentElement;
   if(parentElement.nodeName === 'P')  

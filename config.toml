@@ -50,11 +50,16 @@ disqusShortName = "right-hand-drive"
   weight = 3
 
 # copy paste this block and change for each social media to add how many ever social media
-# acounts/links you want
+# accounts/links you want
 [[params.social]]
   name="github"
   url="https://github.com/NYPD"
   icon="fab fa-github fa-lg"
+
+[[params.social]]
+  name="youtube"
+  url="https://www.youtube.com/channel/UCDRFdfp3Mo3fE8lKku_BCmA"
+  icon="fab fa-youtube fa-lg"
 
 [params.logo]
   url = "icon.png" # static/images/icon.png
