@@ -1,6 +1,6 @@
 ---
 title: "Celica Audio and Nav Upgrade"
-summary: "A sort-of helpful guide on how to remove the Toyota ST205's stock audio system and then adding a complete new sound system with a reverse camera."
+summary: "A sort-of helpful guide on how to remove the Toyota ST205's stock audio system and replacing it with a complete new sound system with a reverse camera."
 description: "Upgrading 1996 Celica audio equipment to the 21st century"
 date: 2022-01-18T19:52:22-07:00
 draft: true
@@ -13,7 +13,7 @@ categories: ['ST205']
 
 ## Intro
 
-So you bought yourself an ST205 and want to upgrade the sound system to the 21st century? Well you are in luck as the process is very straightforward and hopefully with this article you will be able to do it easily and be ready for any roadblocks that I've run into. Although straightforward, expect this to take a bit of time to fully complete and do right. If you have all the parts beforehand a solid weekend should be all you need.
+So you bought yourself an ST205 and want to upgrade the sound system to the 21st century? Well you are in luck as the process is very straightforward and hopefully with this article you will be able be ready for any roadblocks that I've run into. Although straightforward, expect this to take a bit of time to fully complete. If you have all the parts and tools beforehand, a solid weekend of tinkering should be all you need.
 
 This article is not a complete guide and will assume you are capable of removing panels, soldering connections, crafting mounts, etc. This is also my first article on the site so formatting and flow will probably be wonky.
 
@@ -127,27 +127,27 @@ This is the equipment I used for on this project, feel free to swap whatever wit
 
 ## Interior Removal
 
-So the first easy step to start this process is the removal of all the interior trim and rear seats to get access to the OEM speakers. Compared to other JDM cars I have worked with (just a Subaru GC8) this Celica has been simpler in my opinion.
+So the first step to start this process is the removal of all the interior trim and rear seats to get access to the OEM speakers. Compared to other JDM cars I have worked with (just a Subaru GC8) this Celica has been simpler in my opinion.
 
-The door cards/panels were straight forward. They both had two/tree plastic plugs that had screws underneath, so just pop the plugs with your plastic trim tools and undo the screws. There was also a hidden screw under the inner door handle plastic cup as seen here:
+The door cards/panels were straightforward. They both had two/tree plastic plugs that had screws underneath, so just pop the plugs with your plastic trim tools and undo the screws. There was also a hidden screw under the inner door handle plastic cup as seen here:
 
 ![Inner door handle cup removed](/images/celica-audio-and-nav-upgrade/door-handle-cup-removed.webp) *Passenger door handle trim cup removed*
 
-Then once you remove all these screws and plastic retainers and with a little bit of wiggling, you can pop out the door panels/cards and disconnect the power window switch cable from them.
+Then once you remove all these screws and plastic retainers, with a little bit of wiggling you can pop out the door panels/cards and disconnect the power window switch cable from them.
 
 ![Passenger door panel removal](/images/celica-audio-and-nav-upgrade/door-panel-off.webp) *Passenger door panel removed*
 
-After this you can start the removal of the rear seats and the rear side trim (the trim that contains the rear speakers). The rear speaker grilles can be popped off with a trim tool to reveal additional screws to remove. The only small tricky part I recall is the bottom portion of the rear seat, once you unbolt everything, you have to yank the front part of it out from the car frame. It is connected by two metal hooks that lock into the "lock hook" mechanism. The red circles on the image show where these hooks go into.
+After this you can start the removal of the rear seats and the rear side trim (the trim that contains the rear speakers). The rear speaker grilles can be popped off with a trim tool to reveal additional screws to remove. The only small tricky part I recall is the bottom portion of the rear seat. Once you unbolt everything from the seat, you have to yank the front part of the cushion to remove it from the car frame. It is connected by two metal hooks that lock into the "lock hook" mechanism. The red circle on the image show where these hooks go into and where you have to pull from to remove the rear seat cushion.
 
 ![Rear seat and trim removed](/images/celica-audio-and-nav-upgrade/rear-seat-off-and-trim.webp) *Rear seat and trim removed. Red circle shows the hook lock (there is another one on the other side)*
 
-Once you are done removing all the necessary trim you can now unplug and unscrew both the front and rear speakers. Now since your Celica is over 25 years old they will prob look a little bit like this:
+Once you are done removing all the necessary trim you can now unplug and unscrew both the front and rear speakers. Since your Celica is probably over 25 years old they will prob look a little bit like this:
 
 ![Old front speakers](/images/celica-audio-and-nav-upgrade/old-front-speakers.webp) *Old front speakers*
 
 ![Old rear speakers](/images/celica-audio-and-nav-upgrade/rear-old-speakers.webp) *Old rear speakers*
 
-The front speaker diaphragms were a bit petrified and the foam was starting to fall apart. The rears faired a bit better, but still in a poor state. I'm not too knowledgeable when it comes to speaker technology, but to me this is one of the downsides to using paper as a woofer material. Humid conditions, like the ones found in Japan, lead to a deterioration in the speakers over time. Now granted this is over 25+ years, but i'm sure if polypropylene cones were used back then (if the technology existed in the 90's not sure) the old oem speakers would have held off much better. Paper technology and chemical coatings have probably come a long way since then, but im still hesitant to use or recommend paper speaker woofers because of this. These were not so bad compared to the ones found on my 1994 WRX STi:
+The front speaker diaphragms were a bit petrified and the foam was starting to fall apart. The rears faired a bit better, but still in a poor state. I'm not too knowledgeable when it comes to speaker technology, but to me this is one of the downsides to using paper as a woofer material. Humid conditions, like the ones found in Japan, lead to a deterioration in the speakers over time. Now granted this is over 25+ years, but i'm sure if polypropylene cones were used back then (if the technology existed in the 90's not sure) the old oem speakers would have held off much better. Paper technology and chemical coatings have probably come a long way since then, but i'm still hesitant to use or recommend paper speaker woofers because of this. These were not so bad compared to the ones found on my 1994 WRX STi:
 
 ![Old GC8 speaker](/images/celica-audio-and-nav-upgrade/old-gc8-speaker.webp) *Really old and petrified 1994 WRX STi speaker*
 
@@ -163,7 +163,7 @@ Now on the Mr. Brightside I wanted to use the Polk Audio DB speakers regardless 
 
 ![Polk Audio DB5252 inside rear Celica speaker bracket](/images/celica-audio-and-nav-upgrade/rear-new-speaker-inside-old-frame.webp) *Polk Audio DB5252 inside rear Celica speaker bracket*
 
-As you can see the mounting screws do not line up properly on either bracket. The front speaker brackets have a screw spacing of 8" and the rear speaker bracket has a screw spacing of 6.25". I can't recall exactly, but I kinda remember trying the 6.25" DB6502 speaker in the rear and it **STILL** did not line up properly. Looking online I found some threads stating certain 8" speakers worked like the [Focal ISU 200](https://www.focal.com/en/car-audio/car-audio-kits-solutions/integration/universal/component-kits/isu200) will work on the front speaker bracket without any modifications, but chances are the speakers you prefer or want to buy will require some modification and crafting.
+As you can see the mounting screws do not line up properly on either bracket. The front speaker brackets have a screw spacing of 8" and the rear speaker bracket has a screw spacing of 6.25". I can't recall exactly, but I kinda remember trying the 6.25" DB6502 speaker in the rear and it **STILL** did not line up properly. Looking online I found some threads stating certain 8" speakers worked like the [Focal ISU 200](https://www.focal.com/en/car-audio/car-audio-kits-solutions/integration/universal/component-kits/isu200) on the front bracket without any modifications, but chances are the speakers you prefer or want to buy will require some modification and crafting.
 
 Hopefully you are better equipped than me, but all the following custom speaker adapters were done with just a [Dremel 4000-6/50](https://us.dremel.com/en_US/products/-/show-product/tools/4000-6-50-high-performance-rotary-tool-kit?bvroute=Reviews%2FshowHelpfulPositive). The adapters a little sloppy around the edges, but It did not turn out too bad.
 
