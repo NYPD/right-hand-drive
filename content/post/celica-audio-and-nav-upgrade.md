@@ -13,7 +13,7 @@ categories: ['ST205']
 
 ## Intro
 
-So you bought yourself an ST205 and want to upgrade the sound system to the 21st century? Well you are in luck as the process is very straightforward and hopefully with this article you will be able be ready for any roadblocks that I've run into. Although straightforward, expect this to take a bit of time to fully complete. If you have all the parts and tools beforehand, a solid weekend of tinkering should be all you need.
+So you bought yourself an ST205 and want to upgrade the sound system to the 21st century? Well you are in luck as the process is very straightforward and hopefully with this article you will be able be ready for the roadblocks that i've run into. Although straightforward, expect this to take a bit of time to fully complete. If you have all the parts and tools beforehand, a solid weekend of tinkering should be all you need.
 
 This article is not a complete guide and will assume you are capable of removing panels, soldering connections, crafting mounts, etc. This is also my first article on the site so formatting and flow will probably be wonky.
 
@@ -133,11 +133,11 @@ The door cards/panels were straightforward. They both had two/tree plastic plugs
 
 ![Inner door handle cup removed](/images/celica-audio-and-nav-upgrade/door-handle-cup-removed.webp) *Passenger door handle trim cup removed*
 
-Then once you remove all these screws and plastic retainers, with a little bit of wiggling you can pop out the door panels/cards and disconnect the power window switch cable from them.
+Then once you remove all these screws and plastic retainers, with a little bit of wiggling you can pop out the door panels/cards and disconnect the power window switch and illumination light cable from them.
 
 ![Passenger door panel removal](/images/celica-audio-and-nav-upgrade/door-panel-off.webp) *Passenger door panel removed*
 
-After this you can start the removal of the rear seats and the rear side trim (the trim that contains the rear speakers). The rear speaker grilles can be popped off with a trim tool to reveal additional screws to remove. The only small tricky part I recall is the bottom portion of the rear seat. Once you unbolt everything from the seat, you have to yank the front part of the cushion to remove it from the car frame. It is connected by two metal hooks that lock into the "lock hook" mechanism. The red circle on the image show where these hooks go into and where you have to pull from to remove the rear seat cushion.
+After this you can start the removal of the rear seats and the rear side trim (the trim that contains the rear speakers). The rear speaker grilles can be popped off with a trim tool to reveal additional screws to remove. The only small tricky part I recall is the bottom portion of the rear seat. Once you unbolt everything from the seat, you have to yank the front part of the cushion to remove it from the car frame. It is connected by two metal hooks that lock into the "lock hook" mechanism. The red circle on the image shows where these hooks go into and where you have to pull from to remove the rear seat cushion.
 
 ![Rear seat and trim removed](/images/celica-audio-and-nav-upgrade/rear-seat-off-and-trim.webp) *Rear seat and trim removed. Red circle shows the hook lock (there is another one on the other side)*
 
@@ -157,7 +157,7 @@ Regardless, with this mini rant out of the way lets move on to the next section.
 
 Take the new speakers you ordered, remove them from their packaging, and then come to the realization that they do not fit properly and the included speaker adapters won't work either. Unfortunately I ran into this issue when my small brain blindly trusted Crutchfield that a 6.5" speaker will work in the front and a 5.25" speaker will work in the back.
 
-Now on the Mr. Brightside I wanted to use the Polk Audio DB speakers regardless as they are reviewed very well and I have used them in my 94 STi and liked the quality. Here are the new speakers in comparison to the Celica speaker brackets:
+Now on the [Mr. Brightside](https://www.youtube.com/watch?v=gGdGFtwCNBE) I wanted to use the Polk Audio DB speakers regardless as they are well reviewed. I have also used them before on my 94 STi and liked the sound quality they produce. Here are the new speakers in comparison to the Celica speaker brackets:
 
 ![Polk Audio DB6502 inside front Celica speaker bracket](/images/celica-audio-and-nav-upgrade/front-new-speaker-inside-old-frame.webp) *Polk Audio DB6502 inside front Celica speaker bracket*
 
@@ -169,7 +169,7 @@ Hopefully you are better equipped than me, but all the following custom speaker 
 
 ### Rear speakers
 
-I first started by removing the old speakers from the bracket (you will need to desolder the wire connections as they hardwired/soldered on). Then I flipped the speaker over a birch plywood I bought from Home Depot and drew a rough outline of the built in adapter frame the old speaker had. In the middle of the outline I then drew a circle slightly smaller than the DB5252 speaker to allow the speaker edge to rest on the plywood and not fall through.
+I first started by removing the old speakers from the bracket (you will need to desolder the wire connections as they hardwired/soldered on). Then I flipped the speaker over a birch plywood I bought from Home Depot and drew a rough outline of the adapter frame the old speaker had. In the middle of the outline I then drew a circle slightly smaller than the DB5252 speaker to allow the speaker edge to rest on the plywood and not fall through.
 
 ![Rear speaker adapter outline on a birch plywood](/images/celica-audio-and-nav-upgrade/rear-speaker-adapter-outline.webp) *Birch plywood with rear speaker adapter outline*
 
@@ -185,13 +185,13 @@ And was able to secure the speaker with cheap nuts and bolts I have bought from 
 
 ![Rear speaker adapter complete](/images/celica-audio-and-nav-upgrade/rear-new-speaker-adapter.webp) *Rear speaker adapter complete*
 
-Like I mentioned before if you have proper equipment this part would not be so bad. I went through a few birch plywoods before I finally cut one half way decent. If you do not have better equipment or have the same mediocre woodwork skills as me, making these brackets will take a little bit of time, but should not hamper your progress. If possible might I suggest trying to create these brackets out of an acrylic sheet rather than birch wood for increased durability and humidity resistance.
-
-Once finished creating the brackets add a bit of [blue loctite 242](https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_threadlockerblue242.html) (or equivalent) to prevent the nuts from shaking loose and a bit of foam as seen on the picture above to prevent any rattling against the speaker grille. As far as the wiring in concerned, extend the existing cables you desoldered with [16 gauge speaker wire](https://www.crutchfield.com/p_007CSW16/Crutchfield-Speaker-Wire-16-gauge.html) using the [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3) to connect them. Then add spade connectors from the [Nilight Quick Disconnect Terminals](https://smile.amazon.com/gp/product/B07V35375X) kit. The results will look something like so:
+I would suggest to add a bit of [blue loctite 242](https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_threadlockerblue242.html) (or equivalent) on the speaker bolts to prevent the nuts from shaking loose. Also add a bit of foam tape on the edges as seen on the picture above to prevent any rattling against the speaker grille. As far as the wiring in concerned, extend the existing cables you desoldered with [16 gauge speaker wire](https://www.crutchfield.com/p_007CSW16/Crutchfield-Speaker-Wire-16-gauge.html) using the [Kuject butt connectors](https://smile.amazon.com/gp/product/B073RMRCC3) to connect them. Then add spade connectors from the [Nilight Quick Disconnect Terminals](https://smile.amazon.com/gp/product/B07V35375X) kit. The results will look something like so:
 
 ![Rear speaker wire extended with spade connectors attached](/images/celica-audio-and-nav-upgrade/rear-speaker-wire-extension.webp) *Rear speaker wire extended with spade connectors attached*
 
 ![Rear speaker wire extension connected](/images/celica-audio-and-nav-upgrade/rear-speaker-wire-complete.webp) *Rear speaker wire extension connected*
+
+In the end I went through a few birch plywoods before I finally cut one that was half way decent. If you do not have better equipment or have the same mediocre woodwork skills as me, making these brackets will take a bit of time. If possible might I suggest trying to create these brackets out of an acrylic sheet rather than birch wood for increased durability and humidity resistance.
 
 ### Front Speakers
 
@@ -199,25 +199,25 @@ The front speaker adapters are much easier to cut out than the rears. The rears 
 
 ![Cutting through the weatherstrip adhesive on the front speaker and bracket using a small pick](/images/celica-audio-and-nav-upgrade/front-speaker-sticky-stuff.webp) *Cutting through the weatherstrip adhesive on the front speaker and bracket using a small pick*
 
-After you pry the speaker off and desoldering the wires off, flip that speaker over on top your wood panel, trace the speaker outline and screw holes, and then start cutting.
+After you pry the speaker off and desolder the wires, flip that speaker over on top your wood panel and trace the speaker outline as well as the screw holes.
 
 ![Front speaker flipped over on birch plywood](/images/celica-audio-and-nav-upgrade/front-speaker-flipped-on-birch.webp) *Front speaker flipped over on birch plywood*
 
 ![Front adapter fully cut](/images/celica-audio-and-nav-upgrade/front-birch-adapter-inner-circle-cut.webp) *Front adapter fully cut*
 
-Once everything is fully cut mount the adapter to the front speaker bracket (make sure to add some [3M Weatherstrip adhesive](https://www.3m.com/3M/en_US/p/d/b5005005008/) between the adapter and the bracket), attach the speaker and secure it with hardware, and finally add some foam to the edges of the adapter to prevent and rattling sounds of it hitting the door panel.
+Once everything is fully cut mount the adapter back to the front speaker bracket using some [3M Weatherstrip adhesive](https://www.3m.com/3M/en_US/p/d/b5005005008/) to replace some of the adhesive you peeled off. Then install the new speaker and add some foam tape to the edges of the adapter to prevent any rattling sounds on the door panel. Remember to add [blue loctite 242](https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_threadlockerblue242.html) on the speaker nut and bolts.
 
 ![Front speaker adapter complete with speaker installed](/images/celica-audio-and-nav-upgrade/front-speaker-adapters-new.webp) *Front speaker adapter complete with speaker installed*
 
-Now all you have to do is add some [spade connectors](https://smile.amazon.com/gp/product/B07V35375X) to the wires you soldered and attach them to the speaker terminals.
+Now all you have to do is add some [spade connectors](https://smile.amazon.com/gp/product/B07V35375X) to the wires you desoldered and attach them to the speaker terminals.
 
 ## Center Console Trim Removal
 
-Before moving on to the head unit, you will need to remove all the center console trim pieces to get access to the old cassette deck unit (or whatever came your Celica) and remove it. Start off my removing the shift knob and then popping of the shift boot/cigarette lighter trim with your trim pry tools (don't forget to unplug the cigarette lighter wire before yanking it off) .
+Before moving on to the head unit, you will need to remove all the center console trim pieces to get access to the old cassette deck unit (or whatever came your Celica). Start off by removing the shift knob and then popping off the shift boot/cigarette lighter trim with your trim pry tools (don't forget to unplug the cigarette lighter wire before yanking it off).
 
 ![Shift boot trim removed](/images/celica-audio-and-nav-upgrade/shift-boot-trim-removed.webp) *Shift boot trim removed*
 
-Now with this removed it will expose two screws which I have circled in red on the next image. Remove the screws and one again pop off the head unit trim with your trim tool.
+With this removed it will expose two screws which I have circled in red on the next image. Remove these screws and once again pop off the head unit trim with your trim tool.
 
 ![Prying off the head unit trim with a trim tool](/images/celica-audio-and-nav-upgrade/head-unit-trim-removal.webp) *Prying off the head unit trim with a trim tools*
 
@@ -229,7 +229,7 @@ The two blue connectors you see in the image is the Celica's wiring harness. The
 
 ## Head Unit Connections
 
-Luckily the JDM version of the Celica did not pose any additional difficulty when connecting the head unit wire connector to the receiver wiring harness. However, I did spend a lot of time cross referencing multiple sites including the Crutchfield "WireGuide™" to make sure everything lined up correctly. The following is an aggregation off all the information I have rounded up.
+Luckily the JDM version of the Celica did not cause any additional difficulty when connecting the head unit wire connector to the receiver wiring harness. It did however make me spend a lot of time cross referencing multiple sites including the Crutchfield "WireGuide™" to make sure everything lined up correctly. The following is an aggregation of all the information I have rounded up.
 
 So first of all the head unit I went with is the [Sony XAV-AX7000](https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000). The big reason I went with this unit is that this specific model comes with a built-in amplifier which means I don't have to mess around with trying to find a spot to mount an external amplifier and take up the little amount of cargo room the Celica has. The built in amp has a 45 watt RMS and up to 100 watts peak which lines up well with the Polk Audio speakers I purchased and should be plenty of power to drive them (The polk audio speakers have a very high db sensitivity; 91/92 db).
 
