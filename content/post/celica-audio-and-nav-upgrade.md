@@ -7,6 +7,7 @@ draft: false
 toc: false
 tags: ['component speakers', 'head unit', 'reverse camera']
 categories: ['ST205']
+backtotop: true
 ---
 
 ![Old oem celica rear speaker next to new Polk audio speaker](/images/celica-audio-and-nav-upgrade/old-rear-new-rear-speaker.webp) *Old oem Celica rear speaker next to a new Polk audio DB5252 speaker*
