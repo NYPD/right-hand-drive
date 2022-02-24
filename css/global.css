@@ -30,6 +30,10 @@ table {
   display: none;
 }
 
+body[data-dark-theme="true"] .medium-zoom-overlay {
+    background-color: #171717 !important;
+}
+
 /* Dark theme fixes */
 body {
     filter: none;
