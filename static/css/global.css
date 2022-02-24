@@ -39,7 +39,7 @@ img, video, iframe, body * [style*="background-image"] {
     filter: none;
     -webkit-filter: none !important;
 }
-body[data-dark-theme="true"] .blog-tags a,
+
 body[data-dark-theme="true"] h1, 
 body[data-dark-theme="true"] h2, 
 body[data-dark-theme="true"] h3, 
@@ -60,6 +60,7 @@ body[data-dark-theme="true"] .container[role=main] {
  color: #c9c9c9;
 }
 
+body[data-dark-theme="true"] .blog-tags a,
 body[data-dark-theme="true"] a {
  color: #809fff
 }
