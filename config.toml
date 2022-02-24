@@ -1,4 +1,4 @@
-baseURL = "https://smith.github.io"
+baseURL = "https://nypd.github.io/"
 languageCode = 'en-us'
 title = 'right-hand Drive'
 theme = "harbor"
