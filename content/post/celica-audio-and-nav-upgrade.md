@@ -3,7 +3,7 @@ title: "Celica Audio and Nav Upgrade"
 summary: "A sort-of helpful guide on how to remove the Toyota ST205's stock audio system and replacing it with a complete new sound system with a reverse camera."
 description: "Upgrading 1996 Celica audio equipment to the 21st century"
 date: 2022-01-18T19:52:22-07:00
-draft: true
+draft: false
 toc: false
 tags: ['component speakers', 'head unit', 'reverse camera']
 categories: ['ST205']
