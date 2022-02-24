@@ -25,4 +25,7 @@ toggle.addEventListener('click', () => {
 })
 
 document.dispatchEvent(new CustomEvent('scroll'))
-document.getElementById('backtotopButton').style.display = 'block'
+
+if (document.getElementById('backtotopButton') !== null) {
+  document.getElementById('backtotopButton').style.display = 'block'
+}
