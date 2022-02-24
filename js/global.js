@@ -6,3 +6,28 @@ document.querySelectorAll('.container img').forEach((image) => {
 });
 
 mediumZoom('[data-zoomable]');
+
+
+//Dark theme fix
+var darkThemeCSSDisabled = document.getElementById('dark-mode-theme').disabled === false
+if (darkThemeCSSDisabled) 
+  document.querySelector('body').setAttribute('data-dark-theme', 'true')
+else
+  document.querySelector('body').setAttribute('data-dark-theme', 'true')
+
+
+var toggle = document.getElementById('dark-mode-toggle')
+toggle.addEventListener('click', () => {
+  if (toggle.className === 'fas fa-moon') 
+    document.querySelector('body').setAttribute('data-dark-theme', 'true')
+   else if (toggle.className === 'fas fa-sun') 
+    document.querySelector('body').setAttribute('data-dark-theme', 'false')
+})
+
+
+if (document.body.scrollTop === 0 || document.documentElement.scrollTop === 0) {
+  document.getElementById('backtotopButton').style.opacity = '0'
+  document.getElementById('backtotopButton').style.display = 'block'
+} 
+
+document.dispatchEvent(new CustomEvent('scroll'))
