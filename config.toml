@@ -8,12 +8,12 @@ footnoteReturnLinkContents = "^"
 
 # Optional
 # If you use googleAnalytics, you set top-level options in config.toml to the beginning of the config file like other top-level options.
-googleAnalytics = "UA-XXXXXXXX-XX"
+#googleAnalytics = "UA-XXXXXXXX-XX"
 # and disqus too.
 disqusShortName = "right-hand-drive"
 
-[params.goatcounter]
-  domain="stats.domain.com"
+#[params.goatcounter]
+#  domain="stats.domain.com"
 
 [Author]
   name = "NYPD"
