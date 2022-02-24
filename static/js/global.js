@@ -11,7 +11,7 @@ mediumZoom('[data-zoomable]');
 //Dark theme fix
 var darkThemeCSSDisabled = document.getElementById('dark-mode-theme').disabled === false
 if (darkThemeCSSDisabled) 
-  document.querySelector('body').setAttribute('data-dark-theme', 'true')
+  document.querySelector('body').setAttribute('data-dark-theme', 'false')
 else
   document.querySelector('body').setAttribute('data-dark-theme', 'true')
 
