@@ -7,6 +7,14 @@ document.querySelectorAll('.container img').forEach((image) => {
 
 mediumZoom('[data-zoomable]');
 
+document.querySelectorAll('.container table').forEach((table) => {
+  var divContainerElement = document.createElement('div')
+  divContainerElement.classList.add('table-container')
+
+  table.after(divContainerElement)
+  divContainerElement.appendChild(table.cloneNode(true))
+  table.remove()
+});
 
 //Dark theme fix
 var darkThemeCSSDisabled = document.getElementById('dark-mode-theme').disabled === true

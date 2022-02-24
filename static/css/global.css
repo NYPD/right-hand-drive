@@ -1,20 +1,8 @@
-.container[role=main] {
-  max-width: 775px;
-}
-.image-p,
-em {
-  text-align: center;
+.table-container {
+  overflow: auto;
 }
 
-img {
-   max-height: 500px;
-}
-
-em {
-  display: block;
-}
-
-table {
+.table-container table {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
@@ -25,11 +13,34 @@ table {
   justify-content: space-evenly;
 }
 
+.double-image-container img {
+  max-width: 50%;
+}
+
+/* harbor overwrites */
+.container[role=main] {
+  max-width: 775px;
+}
+.image-p,
+em {
+  text-align: center;
+}
+
+em {
+  display: block;
+}
+
+img {
+   max-height: 500px;
+}
+
+/* harbor theme fix */
 #backtotopButton {
   opacity: 0;
   display: none;
 }
 
+/* Medium zoom fix */
 body[data-dark-theme="true"] .medium-zoom-overlay {
     background-color: #171717 !important;
 }
