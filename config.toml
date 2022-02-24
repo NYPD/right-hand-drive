@@ -1,6 +1,6 @@
 baseURL = "https://nypd.github.io/"
-languageCode = 'en-us'
-title = 'right-hand Drive'
+languageCode = "en-us"
+title = "right-hand Drive"
 theme = "harbor"
 paginate = 5
 enableInlineShortcodes = true
@@ -68,4 +68,4 @@ disqusShortName = "right-hand-drive"
   alt = "Logo"
 
 [params]
-  customCSS = ['/css/header.css', '/css/global.css'] # in case you use `/static/css/custom.css`
+  customCSS = ["/css/header.css", "/css/global.css"]
