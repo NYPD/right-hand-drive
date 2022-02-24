@@ -171,7 +171,7 @@ Hopefully you are better equipped than me, but all the following custom speaker 
 
 I first started by removing the old speakers from the bracket (you will need to desolder the wire connections as they hardwired/soldered on). Then I flipped the speaker over a birch plywood I bought from Home Depot and drew a rough outline of the adapter frame the old speaker had. In the middle of the outline I then drew a circle slightly smaller than the DB5252 speaker to allow the speaker edge to rest on the plywood and not fall through.
 
-![Rear speaker adapter outline on a birch plywood](/images/celica-audio-and-nav-upgrade/rear-speaker-adapter-outline.webp) *Birch plywood with rear speaker adapter outline*
+![Rear speaker adapter outline on a birch plywood](/images/celica-audio-and-nav-upgrade/rear-speaker-adapter-outline.webp) *Birch plywood with rear speaker adapter outlined*
 
 This is the [birch plywood squares](https://www.homedepot.com/p/Handprint-1-4-in-x-12-in-x-12-in-Birch-Plywood-438046/315171651) I bought from Home Depot:
 
@@ -604,7 +604,7 @@ This is a total of 6 wires that will need to be extended. I used the spare speak
 
 If you secured the Polk Audio crossover using my cable tie method you will run into the issue where the crossover cover does not sit properly due to the cable tie being in the way. To resolve this I simply filled a groove on the housing where the cable tie is and was able to put on the cover on no problem.
 
-![Polk Audio crossover with hole filled on edge](/images/celica-audio-and-nav-upgrade/tweeter-crossover-cover-with-hole-made.webp) *Polk Audio crossover with hole filled on edge*
+![Polk Audio crossover with hole filed on edge](/images/celica-audio-and-nav-upgrade/tweeter-crossover-cover-with-hole-made.webp) *Polk Audio crossover with hole filed on edge*
 
 ![Polk Audio crossover cover installed](/images/celica-audio-and-nav-upgrade/tweeter-crossover-cover-installed.webp) *Polk Audio crossover cover installed*
 
