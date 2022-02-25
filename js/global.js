@@ -16,4 +16,7 @@ document.querySelectorAll('.container table').forEach((table) => {
   table.remove()
 });
 
-document.querySelector('body').removeAttribute('data-loading')
+//theme.js has a window.onload
+window.addEventListener("load", function (event) {
+  document.querySelector('body').removeAttribute('data-loading')
+}, false)
