@@ -35,10 +35,10 @@ img {
 }
 
 /* harbor theme fix */
-#backtotopButton {
+/* #backtotopButton {
   opacity: 0;
   display: none;
-}
+} */
 
 /* Medium zoom fix */
 body[data-dark-theme="true"] .medium-zoom-overlay {
@@ -46,16 +46,16 @@ body[data-dark-theme="true"] .medium-zoom-overlay {
 }
 
 /* Dark theme fixes */
-body {
+/* body {
     filter: none;
     -webkit-filter: none !important;
 }
 img, video, iframe, body * [style*="background-image"] {
     filter: none;
     -webkit-filter: none !important;
-}
+} */
 
-body[data-dark-theme="true"] h1, 
+/* body[data-dark-theme="true"] h1, 
 body[data-dark-theme="true"] h2, 
 body[data-dark-theme="true"] h3, 
 body[data-dark-theme="true"] h4, 
@@ -82,4 +82,4 @@ body[data-dark-theme="true"] a {
 
 body[data-dark-theme="true"] a:visited {
  color: #ecbbec;
-}
+} */
