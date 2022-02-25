@@ -1,3 +1,7 @@
+body[data-loading] {
+  visibility: hidden;
+}
+
 .table-container {
   overflow: auto;
 }
@@ -15,6 +19,15 @@
 
 .double-image-container img {
   max-width: 50%;
+}
+
+footer .social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+footer .social-icons a:not(:first-child) {
+  margin-left: 20px;
 }
 
 /* harbor overwrites */
