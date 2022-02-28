@@ -1,7 +1,7 @@
 ---
 title: "Celica Audio and Nav Upgrade"
 summary: "A sort-of helpful guide on how to remove the Toyota ST205's stock audio system and replacing it with a complete new sound system with a reverse camera."
-description: "Upgrading 1996 Celica audio equipment to the 21st century"
+description: "A guide on upgrading an 1996 ST205 Celica's audio equipment to the 21st century"
 date: 2022-01-18T19:52:22-07:00
 draft: false
 toc: false
@@ -31,57 +31,57 @@ This is the equipment I used for on this project, feel free to swap whatever wit
       <td>
         <ul>
          <li>
-            <a href="https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000" target="_blank">Sony XAV-AX7000</a>
+            <a href="https://electronics.sony.com/audio/car-marine-audio/receiver-players/p/xavax7000" target="_blank" rel="nofollow noopener">Sony XAV-AX7000</a>
          </li>
          <li>
-            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502" target="_blank">Polk Audio DB 6502</a>
+            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502" target="_blank" rel="nofollow noopener">Polk Audio DB 6502</a>
          </li>
          <li>
-            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502" target="_blank">Polk Audio DB 5252</a>
+            <a href="https://www.polkaudio.com/en-us/product/db-series/db6502" target="_blank" rel="nofollow noopener">Polk Audio DB 5252</a>
          </li>
-         <li><a href="https://www.kicker.com/hideaway-hs10" target="_blank">Kicker 46HS10</a></li>
+         <li><a href="https://www.kicker.com/hideaway-hs10" target="_blank" rel="nofollow noopener">Kicker 46HS10</a></li>
          <li>
-            <a href="https://smile.amazon.com/gp/product/B07H852D49" target="_blank">NATIKA Backup Camera</a>
-         </li>
-         <li>
-            <a href="https://smile.amazon.com/gp/product/B01MY1WDIU" target="_blank">2 Ports Dual USB 3.0</a>
+            <a href="https://smile.amazon.com/gp/product/B07H852D49" target="_blank" rel="nofollow noopener">NATIKA Backup Camera</a>
          </li>
          <li>
-            <a href="https://www.tspeconline.com/product/V-BATT-TML" target="_blank">T-SPEC - Battery Terminal</a>
+            <a href="https://smile.amazon.com/gp/product/B01MY1WDIU" target="_blank" rel="nofollow noopener">2 Ports Dual USB 3.0</a>
          </li>
          <li>
-         <a href="https://www.ebay.com/itm/123987238944" target="_blank">Parking bypass for Head Unit</a>
+            <a href="https://www.tspeconline.com/product/V-BATT-TML" target="_blank" rel="nofollow noopener">T-SPEC - Battery Terminal</a>
+         </li>
+         <li>
+         <a href="https://www.ebay.com/itm/123987238944" target="_blank" rel="nofollow noopener">Parking bypass for Head Unit</a>
          </li>
         </ul>
       </td>
       <td>
         <ul>
           <li>
-            <a href="https://www.kicker.com/2-channel-speaker-rca-converter" target="_blank">Kicker 46KISL Car Audio Amp Amplifier Speaker Wire</a>
+            <a href="https://www.kicker.com/2-channel-speaker-rca-converter" target="_blank" rel="nofollow noopener">Kicker 46KISL Car Audio Amp Amplifier Speaker Wire</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B0009MFRW0" target="_blank">AudioQuest adapter</a>
+            <a href="https://smile.amazon.com/gp/product/B0009MFRW0" target="_blank" rel="nofollow noopener">AudioQuest adapter</a>
           </li>
           <li>
-            <a href="https://www.gardnerbender.com/en/p/HSB-28/Butt-Splice-Kit-8-2-AWG" target="_blank">Gardner Bender HSB-28</a>
+            <a href="https://www.gardnerbender.com/en/p/HSB-28/Butt-Splice-Kit-8-2-AWG" target="_blank" rel="nofollow noopener">Gardner Bender HSB-28</a>
           </li>
           <li>
-            <a href="https://www.wago.com/us/lp-221" target="_blank">WAGO 221 LEVER-NUTS</a>
+            <a href="https://www.wago.com/us/lp-221" target="_blank" rel="nofollow noopener">WAGO 221 LEVER-NUTS</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B01LZRV0HV" target="_blank">TYUMEN 40FT 18 Gauge 2pin Cable</a>
+            <a href="https://smile.amazon.com/gp/product/B01LZRV0HV" target="_blank" rel="nofollow noopener">TYUMEN 40FT 18 Gauge 2pin Cable</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B08LW5HFPL" target="_blank">THIKPO G420 Jumper Cables</a>
+            <a href="https://smile.amazon.com/gp/product/B08LW5HFPL" target="_blank" rel="nofollow noopener">THIKPO G420 Jumper Cables</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B07V35375X" target="_blank">Nilight Quick Disconnect Terminals</a>
+            <a href="https://smile.amazon.com/gp/product/B07V35375X" target="_blank" rel="nofollow noopener">Nilight Quick Disconnect Terminals</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B073RMRCC3" target="_blank">Kuject butt connectors</a>
+            <a href="https://smile.amazon.com/gp/product/B073RMRCC3" target="_blank" rel="nofollow noopener">Kuject butt connectors</a>
           </li>
           <li>
-            <a href="https://www.crutchfield.com/p_007CK12/Crutchfield-CK12.html" target="_blank">Crutchfield CK12</a>
+            <a href="https://www.crutchfield.com/p_007CK12/Crutchfield-CK12.html" target="_blank" rel="nofollow noopener">Crutchfield CK12</a>
           </li>
         </ul>
       </td>
@@ -99,12 +99,12 @@ This is the equipment I used for on this project, feel free to swap whatever wit
       <td>
         <ul>
           <li>
-            <a href="https://us.dremel.com/en_US/products/-/show-product/tools/4000-6-50-high-performance-rotary-tool-kit?bvroute=Reviews%2FshowHelpfulPositive">Dremel 4000-6/50</a>
+            <a href="https://us.dremel.com/en_US/products/-/show-product/tools/4000-6-50-high-performance-rotary-tool-kit?bvroute=Reviews%2FshowHelpfulPositive" target="_blank" rel="nofollow noopener">Dremel 4000-6/50</a>
           </li>
           <li>Basic tools (screwdriver set, socket set, etc)</li>
           <li>Trim removal tools</li>
           <li>
-            <a href="https://www.homedepot.com/p/Handprint-1-4-in-x-12-in-x-12-in-Birch-Plywood-438046/315171651">Birch plywood squares</a>
+            <a href="https://www.homedepot.com/p/Handprint-1-4-in-x-12-in-x-12-in-Birch-Plywood-438046/315171651" target="_blank" rel="nofollow noopener">Birch plywood squares</a>
             <small>or similar size Acrylic sheet</small>
           </li>
         </ul>
@@ -112,10 +112,10 @@ This is the equipment I used for on this project, feel free to swap whatever wit
       <td>
         <ul>
           <li>
-            <a href="https://smile.amazon.com/gp/product/B07CMPH9VY/">ZELCAN Large Step Drill Bit</a>
+            <a href="https://smile.amazon.com/gp/product/B07CMPH9VY/" target="_blank" rel="nofollow noopener">ZELCAN Large Step Drill Bit</a>
           </li>
           <li>
-            <a href="https://smile.amazon.com/Breaking-Strength-Klein-Tools-56108/dp/B0026TA6WK">Jet Line / Pull Line</a>
+            <a href="https://smile.amazon.com/Breaking-Strength-Klein-Tools-56108/dp/B0026TA6WK" target="_blank" rel="nofollow noopener">Jet Line / Pull Line</a>
           </li>
           <li>Nut and bolt assortment</li>
           <li>M10 Washers</li>

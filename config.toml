@@ -62,10 +62,16 @@ disqusShortName = "right-hand-drive"
   icon="fab fa-youtube fa-lg"
 
 [params.logo]
-  url = "icon.png" # static/images/icon.png
+  url = "icon.jpg" # static/images/icon.png
   width = 50
   height = 50
   alt = "Logo"
 
 [params]
   customCSS = ["/css/header.css", "/css/global.css"]
+  description = "right-hand Drive is a personal JDM blog with articles on vehicle projects and various fixes that happened along the way"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
