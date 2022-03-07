@@ -2,12 +2,13 @@
 title: "Celica Audio and Nav Upgrade"
 summary: "A sort-of helpful guide on how to remove the Toyota ST205's stock audio system and replacing it with a complete new sound system with a reverse camera."
 description: "A guide on upgrading an 1996 ST205 Celica's audio equipment to the 21st century"
+images: ['/images/celica-audio-and-nav-upgrade/old-rear-new-rear-speaker.webp']
 date: 2022-01-18T19:52:22-07:00
 draft: false
 toc: false
+backtotop: true
 tags: ['component speakers', 'head unit', 'reverse camera']
 categories: ['ST205']
-backtotop: true
 ---
 
 ![Old oem celica rear speaker next to new Polk audio speaker](/images/celica-audio-and-nav-upgrade/old-rear-new-rear-speaker.webp) *Old oem Celica rear speaker next to a new Polk audio DB5252 speaker*
