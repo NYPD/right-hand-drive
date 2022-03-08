@@ -30,6 +30,11 @@ footer .social-icons a:not(:first-child) {
   margin-left: 20px;
 }
 
+video {
+  margin-top: 10px;
+  width: 100%
+}
+
 /* harbor overwrites */
 .container[role=main] {
   max-width: 775px;
