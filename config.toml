@@ -75,6 +75,3 @@ disqusShortName = "right-hand-drive"
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
-
-[taxonomies]
-  series = 'series'
