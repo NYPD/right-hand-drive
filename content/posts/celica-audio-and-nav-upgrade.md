@@ -27,7 +27,7 @@ categories: ['ST205']
 So you bought yourself an ST205 and want to upgrade the sound system to the 21st century? Well you are in luck as the process is very straightforward and hopefully with this article you will be able be ready for the roadblocks that i've run into. Although straightforward, expect this to take a bit of time to fully complete. If you have all the parts and tools beforehand, a solid weekend of tinkering should be all you need.
 
 This article is not a complete guide and will assume you are capable of removing panels, soldering connections, crafting mounts, etc. This is also my first article on the site so formatting and flow will probably be wonky.
-  
+
 ## Equipment Used
 
 This is the equipment I used for on this project, feel free to swap whatever with your preferred brands.
@@ -142,29 +142,11 @@ So the first step to start this process is the removal of all the interior trim 
 
 The door cards/panels were straightforward. They both had two/tree plastic plugs that had screws underneath, so just pop the plugs with your plastic trim tools and undo the screws. There was also a hidden screw under the inner door handle plastic cup as seen here:
 
-{{< rawhtml >}}
-<p class="image-p">
-  <img src="/images/celica-audio-and-nav-upgrade/sd/door-handle-cup-removed.webp"
-       alt="Inner door handle cup removed"
-       data-zoom-src="/images/celica-audio-and-nav-upgrade/hd/door-handle-cup-removed.webp"
-       data-zoomable
-       class="medium-zoom-image">
-  <em>Passenger door handle trim cup removed</em>
-</p>
-{{< /rawhtml >}}
+![Inner door handle cup removed](/images/celica-audio-and-nav-upgrade/sd/door-handle-cup-removed.webp) *Passenger door handle trim cup removed*
 
 Then once you remove all these screws and plastic retainers, with a little bit of wiggling you can pop out the door panels/cards and disconnect the power window switch and illumination light cable from them.
 
-{{< rawhtml >}}
-<p class="image-p">
-  <img src="/images/celica-audio-and-nav-upgrade/sd/door-panel-off.webp"
-       alt="Passenger door panel removal"
-       data-zoom-src="/images/celica-audio-and-nav-upgrade/hd/door-panel-off.webp"
-       data-zoomable
-       class="medium-zoom-image">
-  <em>Passenger door panel removed</em>
-</p>
-{{< /rawhtml >}}
+![Passenger door panel removal](/images/celica-audio-and-nav-upgrade/sd/door-panel-off.webp) *Passenger door panel removed*
 
 After this you can start the removal of the rear seats and the rear side trim (the trim that contains the rear speakers). The rear speaker grilles can be popped off with a trim tool to reveal additional screws to remove. The only small tricky part I recall is the bottom portion of the rear seat. Once you unbolt everything from the seat, you have to yank the front part of the cushion to remove it from the car frame. It is connected by two metal hooks that lock into the "lock hook" mechanism. The red circle on the image shows where these hooks go into and where you have to pull from to remove the rear seat cushion.
 
