@@ -1,11 +1,4 @@
-document.querySelectorAll('.container img').forEach((image) => {
-  image.setAttribute('data-zoomable', '') 
-  var parentElement = image.parentElement;
-  if(parentElement.nodeName === 'P')  
-    image.parentElement.classList.add('image-p');
-});
-
-mediumZoom('[data-zoomable]');
+mediumZoom('[data-zoomable]')
 
 document.querySelectorAll('.container table').forEach((table) => {
   var divContainerElement = document.createElement('div')

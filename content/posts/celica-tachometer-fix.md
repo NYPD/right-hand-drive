@@ -2,7 +2,7 @@
 title: Celica Tachometer Fix
 summary: A potential fix for a Toyota ST205 dashboard tachometer (RPM gauge) that has issues getting it up.
 description: Quick guide on fixing a celica's dashboard tachometer
-images: ['/images/celica-tachometer-fix/tachometer-dial-removed.webp']
+images: ['/images/celica-tachometer-fix/sd/tachometer-dial-removed.webp']
 date: 2022-03-05T11:32:07-07:00
 draft: false
 toc: false
@@ -11,14 +11,23 @@ tags: ['tachometer']
 categories: ['ST205']
 ---
 
-![ST205 tachometer removed from instrument panel](/images/celica-tachometer-fix/tachometer-dial-removed.webp) *ST205 tachometer removed from instrument panel*
+{{< rawhtml >}}
+<p class="image-p">
+  <img src="/images/celica-tachometer-fix/sd/tachometer-dial-removed.webp"
+       alt="ST205 tachometer removed from instrument panel"
+       data-zoom-src="/images/celica-tachometer-fix/hd/tachometer-dial-removed.webp"
+       data-zoomable
+       class="medium-zoom-image">
+  <em>ST205 tachometer removed from instrument panel</em>
+</p>
+{{< /rawhtml >}}
 
 ## The Problem
 
 Upon buying my Toyota ST205 I noticed that the tachometer was not working properly. It would never go above 3k RPMs despite hard acceleration and the car would idle at 200 RPM which didn't quite seem right. Here is a short video of how the tachometer behaved on idle:
 
 {{< rawhtml >}}
-<video controls preload="auto">
+<video controls preload="metadata">
   <source src="/images/celica-tachometer-fix/tachometer-before.mp4">
   <span>Sorry, your browser doesn't support embedded videos.</span>
 </video>
@@ -30,15 +39,15 @@ After some research online I [discovered a thread](https://www.alltrac.net/phpBB
 
 The first step is to remove this trim piece:
 
-![Instrument Cluster Lower Trim](/images/celica-tachometer-fix/instrument-cluster-lower-trim.webp) *Instrument Cluster Lower Trim*
+![Instrument Cluster Lower Trim](/images/celica-tachometer-fix/sd/instrument-cluster-lower-trim.webp) *Instrument Cluster Lower Trim*
 
  There are no screws holding it in place, so take your trim tool and slowly start popping off the tabs. Here are the locations of the metal tabs to place the most leverage on:
 
-![Instrument Cluster Lower Trim Tab locations](/images/celica-tachometer-fix/instrument-cluster-lower-trim-rear.webp) *Instrument Cluster Lower Trim Tab locations*
+![Instrument Cluster Lower Trim Tab locations](/images/celica-tachometer-fix/sd/instrument-cluster-lower-trim-rear.webp) *Instrument Cluster Lower Trim Tab locations*
 
 Once this is off the next step is to remove the plastic trim surrounding the instrument panel. There are 4 screws holding this in place:
 
-![Instrument Panel Surrounding Trim Screw Locations](/images/celica-tachometer-fix/instrument-panel-shroud-screws.webp) *Instrument Panel Surrounding Trim Screw Locations*
+![Instrument Panel Surrounding Trim Screw Locations](/images/celica-tachometer-fix/sd/instrument-panel-shroud-screws.webp) *Instrument Panel Surrounding Trim Screw Locations*
 
 After this is off all that is left is to just wiggle the instrument panel loose and disconnect the three connectors from the back of it. Take your time to make sure you don't break anything.
 
@@ -52,14 +61,14 @@ These instructions are from memory so I may have missed a step or two. There sho
 
 Now with the tachometer removed we can now replace the two capacitors on the circuit board:
 
-![Tachometer with Capacitors Circled](/images/celica-tachometer-fix/tachometer-dial-capacitors.webp) *Tachometer with Capacitors Circled*
+![Tachometer with Capacitors Circled](/images/celica-tachometer-fix/sd/tachometer-dial-capacitors.webp) *Tachometer with Capacitors Circled*
 
 As you can see there is plenty of room on the side to desolder the old capacitors and resolder new ones. There is no need to remove the actual dial face and needle. The capacitors I went with is the [Panasonic EEA-FC1E100 bought on the mouser electronics website](https://www.mouser.com/ProductDetail/Panasonic/EEA-FC1E100?qs=nLJruSqDb94EJwiFQJd4iw%3D%3D). Even though you only need two, it might be a good idea to buy a few spares in case you break one while soldering or want to have back up capacitors for the future. Also make sure you install the capacitor in the correct polarity orientation.
 
 After the new capacitors are installed carefully put everything back together. With a bit of luck that this was the cause of your tachometer issues, you should hopefully see a functional gauge:
 
 {{< rawhtml >}}
-<video controls preload="auto">
+<video controls preload="metadata">
   <source src="/images/celica-tachometer-fix/tachometer-after.mp4">
   <span>Sorry, your browser doesn't support embedded videos.</span>
 </video>

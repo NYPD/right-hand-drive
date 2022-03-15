@@ -68,7 +68,7 @@ disqusShortName = "right-hand-drive"
   alt = "Logo"
 
 [params]
-  customCSS = ["/css/header.css", "/css/global.css"]
+  customCSS = ["/css/global.css"]
   description = "right-hand Drive is a personal JDM blog with articles on vehicle projects and various fixes that happened along the way"
 
 [sitemap]
