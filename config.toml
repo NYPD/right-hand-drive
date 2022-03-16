@@ -62,7 +62,7 @@ disqusShortName = "right-hand-drive"
   icon="fab fa-youtube fa-lg"
 
 [params.logo]
-  url = "icon.jpg" # static/images/icon.png
+  url = "right-handDrive.png" # static/images/icon.png
   width = 50
   height = 50
   alt = "Logo"

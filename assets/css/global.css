@@ -2,10 +2,6 @@ body[data-loading] {
   visibility: hidden;
 }
 
-.nav-logo > img {
-  border-radius: 25px;
-}
-
 .table-container {
   overflow: auto;
 }
