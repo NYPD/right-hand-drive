@@ -19,13 +19,16 @@
 <!-- Stylesheets -->
 <link rel="stylesheet" href="{{ .Site.BaseURL }}fontawesome/css/all.min.css" />
 
+{{ $harborFontChange := resources.Get "css/harbor-font-change.css" }}
 {{ $main := resources.Get "css/main.css" }}
 {{ $syntax := resources.Get "css/syntax.css" }}
-{{ $styles := (slice $main $syntax) | resources.Concat "css/styles.css" | minify }}
+{{ $styles := (slice $harborFontChange $main $syntax) | resources.Concat "css/styles.css" | minify }}
 <link crossorigin="anonymous" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" rel="preload stylesheet" as="style" />
 
 {{ range .Site.Params.customCSS }}
-<link rel="stylesheet" href="{{ . | absURL }}" />
+  {{ $css := resources.Get . }}
+  {{ $style := $css | resources.Minify }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 {{ end }}
 
 {{ $dark := resources.Get "css/dark.css" | minify }}

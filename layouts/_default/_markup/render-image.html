@@ -1,0 +1,19 @@
+{{ $imgPath := add "/static" (.Destination | safeURL) }}
+{{ $imgPathSafeUrl := (.Destination | safeURL) }}
+{{ $imgFile := imageConfig $imgPath }}
+
+<p class="image-p">
+  <img src="{{ .Destination | safeURL }}" 
+       alt="{{ .Text }}"
+       {{ with .Title}}
+         title="{{ . }}"
+       {{ end }}
+       loading="lazy"
+       width="{{ $imgFile.Width }}"
+       height="{{ $imgFile.Height }}"
+       {{ if os.FileExists (replace $imgPath "/sd/" "/hd/") }}
+         data-zoom-src="{{ replace $imgPathSafeUrl "/sd/" "/hd/" }}"
+         data-zoomable
+       {{ end }}
+  />
+</p>
