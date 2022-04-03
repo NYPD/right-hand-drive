@@ -30,7 +30,7 @@ Provided you have all the tools needed to replace the boots it should only take 
 
 Legal disclaimers out of the way, hopefully you find this guide helpful. This guide is specifically for a 1996 Daihatsu Hijet S110P, but should mostly be the same I believe for other model years and brands (Suzuki Carry, Honda Acty, Subaru Sambar, etc).
 
-If you see anything wrong let me know via a [GitHub issue](https://github.com/NYPD/right-hand-drive/issues) or the comments section below.
+If you see anything wrong let me know via a [GitHub issue](https://github.com/NYPD/right-hand-drive/issues) or the comments section below. Also just [click here](#tldr) if you want to the TLDR version.
 
 ## Stuff Ya Need
 
@@ -45,6 +45,7 @@ If you see anything wrong let me know via a [GitHub issue](https://github.com/NY
 - [CV Boot Clamp Pliers](https://www.amazon.com/Lisle-30800-Boot-Clamp-Pliers/dp/B0002SREPY)
   - There are different types of CV clamps which means different CV pliers, the ones linked are the ones I needed
 - Rubber Mallet
+- Hammer
 - Floor jack, jack stands, wheel chocks. (Stay safe kids)
 
 ### Parts and Items
@@ -167,3 +168,134 @@ Once the jump scares are out of the way, next its time to remove the strut suspe
 With everything else removed all you have to do now is literally yank out the CV axle from the differential on the transmission housing. This should come out with relatively low force.
 
 ![CV axle removed with knuckle still attached](/images/daihatsu-cv-boot-repair/sd/cv-axle-removed.webp) *CV axle removed with knuckle still attached*
+
+Removing this might leak a bit of transmission fluid. If this does happen simply drain the old transmission fluid and replace it with some [75W85 GL-4 Fluid](https://smile.amazon.com/gp/product/B004D4URV6). There will be a future post here showing how it is done.
+
+## Separating the Knuckle from the CV Axle
+
+Removing the knuckle from the CV axle is a bit of a pain. After some trial and error the method I found to work the best is sitting on the floor and hammering the CV axle **through** the knuckle likes so:
+
+![CV axle being hammered through knuckle](/images/daihatsu-cv-boot-repair/sd/hammering-axle-from-knuckle.webp) *CV axle being hammered through knuckle*
+
+![CV axle separated from knuckle](/images/daihatsu-cv-boot-repair/sd/cv-axle-removed-from-knuckle.webp) *CV axle separated from knuckle*
+
+Use a spare rag or towel to prevent any scratches or damage to the inner CV joint. Yes this method is silly, but proved to be effective for me.
+
+## Replace Those Rubbers
+
+![CV axle on bench with torn boots](/images/daihatsu-cv-boot-repair/sd/cv-axle-on-bench.webp) *CV axle on bench with torn boots*
+
+So now its time to replace these CV boots. Mine were in pretty bad shape. Both CV axles had torn boots and petrified rubber:
+
+![Torn CV boot](/images/daihatsu-cv-boot-repair/sd/cv-boot-wrecked.webp) *Torn CV boot*
+
+![Petrified CV boot](/images/daihatsu-cv-boot-repair/sd/cv-boot-petrified.webp) *Petrified CV boot*
+
+So the first step is to cut off all four CV clamps:
+
+![CV clamp cut](/images/daihatsu-cv-boot-repair/sd/cv-boot-clamp-cut.webp) *CV clamp cut*
+
+There are two of these per boot on the edges. Once these are cut, slide the inner CV joint boot down the shaft to expose the actual CV joint.
+
+![Inner CV boot slid down shaft exposing knuckle](/images/daihatsu-cv-boot-repair/sd/cv-boot-slid-away-from-inner-joint.webp) *Inner CV boot slid down shaft exposing knuckle*
+
+All this grease you see will have to be cleaned up as best as possible. So take your spare rags and paper towels and start cleaning up all this old grease. Notice the little metal ring on the very end of the CV axle on the left side. Make sure this does not come off as this is important to keep the CV axle into the transmission housing (this is also an obvious indicator on which side the axle is the inner side).
+
+Next shove in the axle into that CV joint as much you can like so:
+
+![CV axle shoved into joint](/images/daihatsu-cv-boot-repair/sd/cv-axle-shoved-into-joint.webp) *CV axle shoved into joint*
+
+This will expose a metal retaining ring that is keeping that joint together:
+
+![Inner CV joint metal ring clip](/images/daihatsu-cv-boot-repair/sd/inner-cv-joint-metal-clip.webp) *Inner CV joint metal ring clip*
+
+Removing this simply requires a small flat head screw driver or pick and prying it out. Once you remove this you should be able to pull the CV joint housing from the bearing ring. Clean up all the old grease you see on everything. Then the next step is to remove the bearing. The bearing is held on the axle by a snap ring seen here:
+
+![Inner CV joint bearing snap ring](/images/daihatsu-cv-boot-repair/sd/cv-inner-bearing-snap-ring.webp) *Inner CV joint bearing snap ring*
+
+Use some snap ring pliers and carefully remove the snap ring from the bearing without breaking the ring.
+
+![Inner CV joint outer ring and snap ring removed](/images/daihatsu-cv-boot-repair/sd/snap-ring-removed-with-tools.webp) *Inner CV joint outer ring and snap ring removed*
+
+With the bearing removed you can now slide of all the CV boots of the axle leaving you with a naked CV axle:
+
+![CV axle with no boots](/images/daihatsu-cv-boot-repair/sd/cv-axle-naked.webp) *CV axle with no boots*
+
+Clean up all this old grease as best you can cause the next step is to lather this bad boy with brand new grease.
+
+Start off with greasing the outer CV joint shoving as much you can in the bearings:
+
+![CV outer joint greased](/images/daihatsu-cv-boot-repair/sd/cv-outer-joint-greased.webp) *CV outer joint greased*
+
+Then slide the the correct boot on the joint. For my kit it was the large boot I had to use for the outer joint.
+
+![New CV boot on outer joint](/images/daihatsu-cv-boot-repair/sd/new-boot-on-outer-joint.webp) *New CV boot on outer joint*
+
+When sliding the boot make sure to line up the smaller diameter of the boot over the axle groove seen here:
+
+![CV axle boot groove](/images/daihatsu-cv-boot-repair/sd/cv-axle-groove-for-boot-clamp.webp) *CV axle boot groove*
+
+After the outer joint boot is done, put some CV clamps on it (don't tighten yet) and then slide the inner CV boot in:
+
+![New Inner CV boot slid in](/images/daihatsu-cv-boot-repair/sd/inner-boot-new-slid-in.webp) *New Inner CV boot slid in*
+
+Now you can put on the bearing in the correct orientation, apply the snap ring back, and grease it. Then apply a big ol glob of grease into the inner joint housing, slide it over the bearing, install the retention clip, and then grease it some more:
+
+![CV inner joint greased](/images/daihatsu-cv-boot-repair/sd/cv-inner-joint-grased.webp) *CV inner joint greased*
+
+Slide the inner boot over the joint and put some CV clamps on it. Now you can use you CV pliers to tighten the CV clamps:
+
+![CV pliers on clamp](/images/daihatsu-cv-boot-repair/sd/cv-pliers-on-clamp.webp) *CV pliers on clamp*
+
+With all the clamps tighten down use a hammer to gently hammer in the clamp nubs sticking out. Now you are finally done and should have something that looks like so:
+
+![CV axle boots completed](/images/daihatsu-cv-boot-repair/sd/cv-axle-boots-complete.webp) *CV axle boots completed*
+
+## Putting Everything Back Together
+
+Remember everything you did to remove everything? Well now you have to do it in reverse. I won't completely cover this, but will mention a few key steps as well as list of all the torque values.
+
+| Bolt/Nut                     |  Nm   | lbf-ft |
+| ---------------------------- | ------| -------|
+| Two Bottom Suspension Bolts  | 93    | 69     |
+| Top Suspension Nuts          | 40    | 30     |
+| Brake Caliper Bolts          | 112   | 83     |
+| Hub Face Screws              | 47    | 34     |
+| Axle Nut                     | 196   | 145    |
+| Tie Rod Castle Nut           | 46    | 34     |
+| Lower Control Arm Castle Nut | 46??? | 34     |
+
+First of, when sliding the CV axle back into the transmission housing, twist it around till you feel the grooves slide in. Then take a mallet to tap it completely into the housing.
+
+![CV axle held in place prior to using mallet](/images/daihatsu-cv-boot-repair/sd/cv-axle-placed-in-slot.webp) *CV axle held in place prior to using mallet*
+
+Before sliding the knuckle back on make sure to grease the bearings:
+
+![CV axle held in place prior to using mallet](/images/daihatsu-cv-boot-repair/sd/kuckle-greased-up.webp) *CV axle held in place prior to using mallet*
+
+The last key step worth mentioning is when sliding the axle hub in, if you can not get it to be completely seated by using muscle strength or a mallet, you can use the axle hub nut to slowly push it in till its seated. Remember the axle hub nut is one big castle nut, so it should be very apparent how far the nut should thread on the axle.
+
+![Rotor and hub installed with axle nut](/images/daihatsu-cv-boot-repair/sd/rotor-and-hub-installed-with-nut.webp) *Rotor and hub installed with axle nut*
+
+## TLDR
+
+Steps to take things apart in:
+
+- Remove the axle hub nut
+- Loosen the hub bolts
+- Remove the brake caliper
+- Loosen bottom strut bolts
+- Remove the axle hub and rotor
+- Disconnect tie rod and lower control arm
+- Remove suspension strut
+- Remove the CV axle
+- Separate the knuckle from the CV axle
+- Take off inner CV joint
+- Replace CV boots
+- Re-assemble
+
+## Summary
+
+So overall nothing too complicated. Looking back on this I probably should have de-greased the cv joints to completely remove the old grease. Also from here on out I will moisturize and exfoliate the rubber CV boots to avoid petrification. One random benefit that came from my CV boots tearing was that it flung and coated CV grease on everything which is a fantastic rust prevention method. So nothing to complain about there.
+
+Hopefully this was helpful and if I said anything wrong call me out in the comments below.
