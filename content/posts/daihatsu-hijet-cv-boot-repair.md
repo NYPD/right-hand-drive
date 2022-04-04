@@ -4,7 +4,7 @@ summary: Simple guide into replacing worn out CV boots from a Daihatsu Hijet S11
 description: Guide to replacing worn out CV boots from a Daihatsu Hijet S110P
 images: ['/images/daihatsu-cv-boot-repair/sd/cv-clamps-on-everything.webp']
 date: 2022-03-31T22:02:31-06:00
-draft: true
+draft: false
 toc: false
 backtotop: true
 tags: ['CV boot', 'CV axle']
