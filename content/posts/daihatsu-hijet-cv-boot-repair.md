@@ -300,7 +300,7 @@ Steps to take things apart in:
 
 ## Summary
 
-So overall nothing too complicated. Looking back on this I probably should have de-greased the CV joints to completely remove the old grease. Also from here on out I will moisturize and exfoliate the rubber CV boots to keep them nice and rubbery. 
+So overall nothing too complicated. Looking back on this I probably should have de-greased the CV joints to completely remove the old grease. Also from here on out I will moisturize and exfoliate the rubber CV boots to keep them nice and rubbery.
 
 One random benefit that came from my CV boots tearing was that it flung and coated CV grease on everything which is a fantastic rust prevention method. So nothing to complain about there.
 
