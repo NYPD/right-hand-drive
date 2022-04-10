@@ -10,8 +10,8 @@ As far as this blog is concerned i'm publishing it to give back to the JDM commu
 
 The JDM vehicles I currently own are:
 
-![1994 Subaru WRX STi post body paint job](/images/1994-sti.webp)*1994 Subaru WRX STi* *Restoration car, trying to keep everything mostly OEM*
+![1994 Subaru WRX STi post body paint job](/images/about/sd/1994-sti.webp)*1994 Subaru WRX STi* *Restoration car, trying to keep everything mostly OEM*
 
-![1996 Toyota Celica ST205 in field](/images/1996-celica.webp)*1996 Toyota Celica ST205* *Daily driver*
+![1996 Toyota Celica ST205 in field](/images/about/sd/1996-celica.webp)*1996 Toyota Celica ST205* *Daily driver*
 
-![1996 Daihatsu Hijet with Wyoming mountains in background](/images/1996-hijet.webp)*1996 Daihatsu Hijet* *Future off-road worthy truck*
+![1996 Daihatsu Hijet with Wyoming mountains in background](/images/about/sd/1996-hijet.webp)*1996 Daihatsu Hijet* *Future off-road worthy truck*
