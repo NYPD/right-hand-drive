@@ -169,7 +169,7 @@ With everything else removed all you have to do now is literally yank out the CV
 
 ![CV axle removed with knuckle still attached](/images/daihatsu-cv-boot-repair/sd/cv-axle-removed.webp) *CV axle removed with knuckle still attached*
 
-Removing this might leak a bit of transmission fluid. If this does happen simply drain the old transmission fluid and replace it with some [75W85 GL-4 Fluid](https://smile.amazon.com/gp/product/B004D4URV6). There will be a future post here showing how it is done.
+Removing this might leak a bit of differential fluid. If this does happen simply drain the old differential fluid and replace it with some 80W90 gear oil. There will be a [future post here showing how it is done](/posts/daihatsu-front-differential-fluid-change).
 
 ## Separating the Knuckle from the CV Axle
 
