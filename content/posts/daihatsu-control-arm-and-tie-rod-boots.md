@@ -4,7 +4,7 @@ summary: Replacing some old 25+ year old rubbers
 description: Quick guide on replacing a Daihatsu Hijet S110p's tie rod rubber boot and lower control arm ball join boot
 images: ['/images/daihatsu-control-arm-and-tie-rod-boots/sd/tie-rod-ripped.webp']
 date: 2022-05-01T20:48:20-06:00
-draft: true
+draft: false
 toc: false
 backtotop: true
 tags: ['tie rod boots', 'lower control arm ball joint boot']
