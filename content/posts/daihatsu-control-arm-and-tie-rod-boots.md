@@ -24,7 +24,7 @@ categories: ['Daihatsu Hijet S110P']
 
 ## Intro
 
-While replacing the CV boots on my Daihatsu Hijet I noticed that all the rubber boots on the tie rods and lower control arm were in rough shape. Most of them were cracked and very brittle due to being 25+ years old, while some actually had tears in the boots. Luckily all the joints were still in good condition so all that is needed is just to replace the rubber boots.
+While replacing the CV boots on my Daihatsu Hijet I noticed that all the rubber boots on the tie rods and lower control arms were in rough shape. Most of them were cracked and very brittle due to being 25+ years old. Some actually had tears in the boots exposing the insides of the joints. Luckily all the joints were still in good condition so all that was needed to do is replace the rubber boots.
 
 ## Tools Needed
 
@@ -41,7 +41,7 @@ While replacing the CV boots on my Daihatsu Hijet I noticed that all the rubber 
 
 ## Getting Access to the Rubbers
 
-The first obvious step is to safely jack the front end of the Daihatsu up and remove the front wheels to have easier access to to the tie rod and lower control arm joints. With the wheel removed you should now have a clear view on the problem rubbers:
+The first obvious step is to safely jack the front end of the Daihatsu up and remove the front wheels to have easier access to the tie rod and lower control arm joints. With the wheel removed you should now have a clear view on the problem rubbers:
 
 {{< rawhtml >}}
 <p class="image-p">
@@ -100,7 +100,7 @@ For the lower control arm ball join boot I did not have any big enough socket to
 
 ## Lubing up the rubbers
 
-All that is left is using your grease gun with the grease needle and injecting the new boots with a lot of grease. Rather than pierce the rubber, I placed the needle between the boot the joint arm and squeezed grease through there.
+All that is left is using your grease gun with the grease needle and injecting the new boots with a lot of grease. Rather than pierce the rubber, I placed the needle between the boot the joint arm/bolt and squeezed grease through there.
 
 ## Conclusion
 
