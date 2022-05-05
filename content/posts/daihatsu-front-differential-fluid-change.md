@@ -8,7 +8,7 @@ draft: false
 toc: false
 backtotop: true
 tags: ['differential fluid']
-categories: ['S110P']
+categories: ['Daihatsu Hijet S110P']
 ---
 
 {{< rawhtml >}}

@@ -8,7 +8,7 @@ draft: false
 toc: false
 backtotop: true
 tags: ['tachometer']
-categories: ['ST205']
+categories: ['Toyota Celica ST205']
 ---
 
 {{< rawhtml >}}

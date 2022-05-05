@@ -8,7 +8,7 @@ draft: false
 toc: false
 backtotop: true
 tags: ['CV boot', 'CV axle']
-categories: ['S110P']
+categories: ['Daihatsu Hijet S110P']
 ---
 
 {{< rawhtml >}}
