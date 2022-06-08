@@ -4,7 +4,7 @@ summary: Installing new wheels and tires on the Daihatsu Hijet
 description: Upgrading the Daihatsu Hijet with new wheels and bigger tires
 images: ['/images/daihatsu-new-bigger-wheels/sd/new-tire-and-wheels-next-to-old.webp']
 date: 2022-05-13T10:58:54-06:00
-draft: true
+draft: false
 toc: false
 backtotop: true
 tags: ['lift kit', 'wheels', 'tires', 'off-road']
