@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://righthanddrive.autos/posts/daihatsu-facts/",
+                "title": "Daihatsu Facts",
+                "section": "posts",
+                "date" : "2022.06.17",
+                "body": "This post will serve as a collection of useful info I wish I could have easily looked up rather than figure out myself.\nMisc Item Specification Note Battery holder size 9 9/16\" Wide 9\" High 5 7/16\" Deep A battery for a 2014 Toyota Prius plug-in fits perfectly. This one fit just fine on my Daihatsu. I did have to install the battery backwards since the stock battery cables were not long enough to reach. One thing to note is that the existing battery retainer bracket might not fit properly if you get a bigger battery. Something to keep in mind. "
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://righthanddrive.autos/posts/daihatsu-new-bigger-wheels/",
                 "title": "Daihatsu New Bigger Wheels",
                 "section": "posts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://righthanddrive.autos/posts/daihatsu-control-arm-and-tie-rod-boots/",
                 "title": "Daihatsu Control Arm and Tie Rod Boots",
                 "section": "posts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://righthanddrive.autos/posts/daihatsu-front-differential-fluid-change/",
                 "title": "Daihatsu Front Differential Fluid Change",
                 "section": "posts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://righthanddrive.autos/posts/daihatsu-hijet-cv-boot-repair/",
                 "title": "Daihatsu Hijet CV Boot Repair",
                 "section": "posts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://righthanddrive.autos/posts/celica-tachometer-fix/",
                 "title": "Celica Tachometer Fix",
                 "section": "posts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://righthanddrive.autos/posts/celica-audio-and-nav-upgrade/",
                 "title": "Celica Audio and Nav Upgrade",
                 "section": "posts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://righthanddrive.autos/about/",
                 "title": "About",
                 "section": "",
