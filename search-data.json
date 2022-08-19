@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://righthanddrive.autos/posts/daihatsu-battery/",
+                "title": "Daihatsu Battery",
+                "section": "posts",
+                "date" : "2022.08.18",
+                "body": " New prius battery installed on the Daihatsu Hijet S110p Intro So the battery on my S110p was starting to have trouble starting up the truck. I also had no idea how old the battery was since I bought the S110P from auction in Japan. Who knows when the previous owner replaced it.\nI figured it would be best to buy a new one and get a good quality one while I am at it. However, I had no Idea what size to get since no car battery website in the USA has options for a Daihatsu Hijet. After lots of research on forums, measuring, and looking up battery charts, a battery that would work for a 96 Daihatsu Hijet S110P is a Group S46B24R battery\nBattery Woes The Group S46B24R I went with is a SLI51PAGM Duracell Ultra Platinum. If you would like to choose another brand just look up batteries for a 2014 Toyota Prius Plug-in. These batteries have a measurement of:\nLength 9.38 in Width 5 in Height 8.75 in This fits perfectly in the battery cage the S110P has, however, without any modifications done you will have to install the battery backwards since the terminal ends don\u0026rsquo;t reach. To make things worse the battery holder rod does not reach this new bigger battery:\nBattery rod not long enough So a quick solution to this is to use some zip-ties in a bit of redneck engineering.\nBattery rod zip tied together The Solution I have massive OCD, so this was not gonna fly. The only thing to do is to extend the cable connectors and find a welder that can extend the rod for me.\nExtending the cables was easy, I just used some spare cable I had from a jumper cable I used in the past for wire and a Gardner Bender HSB-28 Cable Splice Kit. I\u0026rsquo;ve used this same kit in my Celica audio upgrade and liked the quality of it. For me I only had to extend the negative battery cable.\nNegative battery cable extended\nI then went Home Depot and picked up a metal rod that was the same girth size as the original battery holder rod. After that I found a local welder near me and after some discussion I managed to persuade them with $40 to quickly tackle my easy request. The results turned out great:\nNew Battery installed with extended cable and longer holding rod\nCloser look at the welded rod\nClosing Thoughts ezpz\n"
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://righthanddrive.autos/posts/daihatsu-tachometer/",
                 "title": "Daihatsu Tachometer",
                 "section": "posts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://righthanddrive.autos/posts/daihatsu-s110p-facts/",
                 "title": "Daihatsu S110P Facts",
                 "section": "posts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://righthanddrive.autos/posts/daihatsu-new-bigger-wheels/",
                 "title": "Daihatsu New Bigger Wheels",
                 "section": "posts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://righthanddrive.autos/posts/daihatsu-control-arm-and-tie-rod-boots/",
                 "title": "Daihatsu Control Arm and Tie Rod Boots",
                 "section": "posts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://righthanddrive.autos/posts/daihatsu-front-differential-fluid-change/",
                 "title": "Daihatsu Front Differential Fluid Change",
                 "section": "posts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://righthanddrive.autos/posts/daihatsu-hijet-cv-boot-repair/",
                 "title": "Daihatsu Hijet CV Boot Repair",
                 "section": "posts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://righthanddrive.autos/posts/celica-tachometer-fix/",
                 "title": "Celica Tachometer Fix",
                 "section": "posts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://righthanddrive.autos/posts/celica-audio-and-nav-upgrade/",
                 "title": "Celica Audio and Nav Upgrade",
                 "section": "posts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://righthanddrive.autos/about/",
                 "title": "About",
                 "section": "",
