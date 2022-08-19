@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://righthanddrive.autos/posts/daihatsu-tachometer/",
+                "title": "Daihatsu Tachometer",
+                "section": "posts",
+                "date" : "2022.06.17",
+                "body": " Custom tachometer installed on the 96 Daihatsu Hijet Why Ever since putting on off-road worthy tires on the Hijet the road noise has increased considerably. So much so that I wasn\u0026rsquo;t sure at times exactly how high I was revving the truck. So to avoid blowing up the engine I decided to add a tachometer.\nThis post will quickly show how to add a tach on a 1996 Daihatsu Hijet.\nItems Used GlowShift Tachometer Wago connectors ATC Blase fuse taps Low voltage wire Tachometer Info Before we get started make sure your tachometer supports 3 cylinder engines. The Glowshift I chose allows for 1-10 cylinder support by turning a knob on the back of the unit.\nTachometer placement Find a place you want to place the tachometer at. I decided to go at the top right of the dash seen here:\nTachometer dash placement I routed all the wires behind the dash and secured them with zip ties applying some good cable management. To get better access at routing the wires I did take off the instrument dash panel. This was really simple. If you decide to go this route simply unscrew two screws at the top of the panel:\nDash panel top screws Then start popping of the trim with a small trim remover piece using the small tabs on the panel seen here:\nSmall tab to insert pry tool\nThen once you slowly pop off everything simply undo the 4x4 button wire attach to it and set the panel aside.\n4x4 button connector\nWhich Wire to Connect the Tachometer to This will be located near the distributor cap on the S110P which is near the middle of the truck. Just unscrew the engine access panel and look for this wire plug:\nTachometer wire connector location\nTo make finding this easier, this plug was connected to a female plug that had no wires attached to it. It was a just a dead-end plug. The exact wire I spliced into was this one here:\nWire to splice into\nBefore you make anything final, test out the connections first. It should be the same across all S110Ps, but I\u0026rsquo;m not 100% sure. After you confirm everything works use some wago connectors and hook everything up:\nWago connector\nI was afraid the wago connectors would not hold up to the engine heat, but It has been doing great so far. The green wire seen in the image above is the wire I ran all the way to the tachometer location on the dash. This wire goes through one of the grommets underneath the parking brake, under the floor mats, and up to the tachometer unit.\nGrounding and Power Last step is to connect the ground to somewhere on the chassis. Just find an exposed metal screw and attach it to that using some ring connectors. For the power I used on of the ATC Blase fuse taps to tap into the ACC fuse so the tachometer will turn on and turn off with the truck. The ACC fuse connector is the one in the bottom:\nATC tap fuse connected\nHere is a diagram of the fuse box (which you should have too):\nFuse box diagram\nThe GlowShift tachometer has a feature where it dims itself a bit if the lights are turned on. To accomplish this I connected the dimming wire to the 10A fog fuse, the TAP at the top of the first picture.\nConclusion Skipped over some details, but easy install once you know which wire to connect to. Here is a video of the final result:\nSorry, your browser doesn't support embedded videos. "
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://righthanddrive.autos/posts/daihatsu-s110p-facts/",
                 "title": "Daihatsu S110P Facts",
                 "section": "posts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://righthanddrive.autos/posts/daihatsu-new-bigger-wheels/",
                 "title": "Daihatsu New Bigger Wheels",
                 "section": "posts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://righthanddrive.autos/posts/daihatsu-control-arm-and-tie-rod-boots/",
                 "title": "Daihatsu Control Arm and Tie Rod Boots",
                 "section": "posts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://righthanddrive.autos/posts/daihatsu-front-differential-fluid-change/",
                 "title": "Daihatsu Front Differential Fluid Change",
                 "section": "posts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://righthanddrive.autos/posts/daihatsu-hijet-cv-boot-repair/",
                 "title": "Daihatsu Hijet CV Boot Repair",
                 "section": "posts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://righthanddrive.autos/posts/celica-tachometer-fix/",
                 "title": "Celica Tachometer Fix",
                 "section": "posts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://righthanddrive.autos/posts/celica-audio-and-nav-upgrade/",
                 "title": "Celica Audio and Nav Upgrade",
                 "section": "posts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://righthanddrive.autos/about/",
                 "title": "About",
                 "section": "",
