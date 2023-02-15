@@ -48,6 +48,10 @@ em {
   display: block;
 }
 
+p em {
+  display: inline;
+}
+
 .container img {
    max-height: 500px;
    height: auto !important;

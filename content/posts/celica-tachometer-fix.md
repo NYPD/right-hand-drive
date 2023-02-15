@@ -3,12 +3,13 @@ title: Celica Tachometer Fix
 summary: A potential fix for a Toyota ST205 dashboard tachometer (RPM gauge) that has issues getting it up.
 description: Quick guide on fixing a celica's dashboard tachometer
 images: ['/images/celica-tachometer-fix/sd/tachometer-dial-removed.webp']
+videos: ['/images/celica-tachometer-fix/tachometer-after.mp4']
 date: 2022-03-05T11:32:07-07:00
 draft: false
 toc: false
 backtotop: true
 tags: ['tachometer']
-categories: ['Toyota Celica ST205']
+categories: ['1996 Toyota Celica (ST205)']
 ---
 
 {{< rawhtml >}}

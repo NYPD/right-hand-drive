@@ -8,7 +8,7 @@ draft: false
 toc: false
 backtotop: true
 tags: ['tie rod boots', 'lower control arm ball joint boot']
-categories: ['Daihatsu Hijet S110P']
+categories: ['1996 Daihatsu Hijet (S110P)']
 ---
 
 {{< rawhtml >}}
@@ -32,7 +32,7 @@ While replacing the CV boots on my Daihatsu Hijet I noticed that all the rubber 
 - Pliers
 - Probably a breaker bar
 - Small flat head screw driver
-- [Ball joint seperator](https://smile.amazon.com/gp/product/B0797YY6XX)
+- [Ball joint separator](https://smile.amazon.com/gp/product/B0797YY6XX)
   - You could also use a pickle fork since at this point you don't care about tearing the rubber
 - [Joint grease](https://smile.amazon.com/gp/product/B0053O9FQS)
 - [Grease gun](https://smile.amazon.com/gp/product/B000MD4YKM)

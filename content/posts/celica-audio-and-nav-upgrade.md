@@ -8,7 +8,7 @@ draft: false
 toc: false
 backtotop: true
 tags: ['component speakers', 'head unit', 'reverse camera']
-categories: ['Toyota Celica ST205']
+categories: ['1996 Toyota Celica (ST205)']
 ---
 
 {{< rawhtml >}}

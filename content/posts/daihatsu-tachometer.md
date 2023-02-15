@@ -9,7 +9,7 @@ draft: false
 toc: false
 backtotop: true
 tags: ['tachometer']
-categories: ['Daihatsu Hijet S110P']
+categories: ['1996 Daihatsu Hijet (S110P)']
 ---
 
 {{< rawhtml >}}

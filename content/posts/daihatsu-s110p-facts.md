@@ -7,7 +7,7 @@ draft: false
 toc: false
 backtotop: true
 tags: ['facts']
-categories: ['Daihatsu Hijet S110P']
+categories: ['1996 Daihatsu Hijet (S110P)']
 ---
 
 This post will serve as a collection of useful info I wish I could have easily looked up rather than figure out myself.
