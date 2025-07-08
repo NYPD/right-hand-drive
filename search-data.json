@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://righthanddrive.blog/posts/suzuki-db52t-facts/",
+                "title": "Suzuki Carry DB52T Facts",
+                "section": "posts",
+                "date" : "2025.07.07",
+                "body": "This post will serve as a collection of useful info I wish I could have easily looked up rather than figure out myself.\nEngine Item Specification Note Engine Oil Type All (turbo and non-turbo) 10W-30 Below -20C 5W-30 Engine Oil Amount Without oil filter 3.2 liters With oil filter 3.4 liters Transmission Oil Type MT 75W-90 (GL-4) AT ATF5D06 Transmission Oil Amount MT 2WD 1.2 liters MT 4WD 2.5 liters AT 3.1 liters Transfer Case Oil MT 75W-90 (GL-4) Transfer Case Oil Amount MT 4WD 1.2 liters Differential Oil MT 4WD 80W-90 (GL-5) Differential Oil Amount Front 0.85 liters Rear (Non turbo) 1.0 liters Rear (turbo) 1.3 liters Spark Plugs Non turbo DENSO XU22EPR-U (0.8mm - 0.9mm gap) NGK DCPR7E (0.8mm - 0.9mm gap) Turbo DENSO W16EPR-U (0.7mm - 0.8mm gap) NGK BPR5E (0.7mm - 0.8mm gap) Misc Item Specification Note Battery Replacement A battery for a 2014 Toyota Prius plug-in fits perfectly (S46B24R size). This one fit just fine on my Suzuki. I did have to install the battery backwards since the stock battery cables were not long enough to reach. Make sure they battery you get has the pencil posts. Brake Fluid \"Suzuki DOT3\" "
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://righthanddrive.blog/posts/daihatsu-battery/",
                 "title": "Daihatsu Battery",
                 "section": "posts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://righthanddrive.blog/posts/daihatsu-tachometer/",
                 "title": "Daihatsu Tachometer",
                 "section": "posts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://righthanddrive.blog/posts/daihatsu-s110p-facts/",
                 "title": "Daihatsu S110P Facts",
                 "section": "posts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://righthanddrive.blog/posts/daihatsu-new-bigger-wheels/",
                 "title": "Daihatsu New Bigger Wheels",
                 "section": "posts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://righthanddrive.blog/posts/daihatsu-control-arm-and-tie-rod-boots/",
                 "title": "Daihatsu Control Arm and Tie Rod Boots",
                 "section": "posts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://righthanddrive.blog/posts/daihatsu-front-differential-fluid-change/",
                 "title": "Daihatsu Front Differential Fluid Change",
                 "section": "posts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://righthanddrive.blog/posts/daihatsu-hijet-cv-boot-repair/",
                 "title": "Daihatsu Hijet CV Boot Repair",
                 "section": "posts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://righthanddrive.blog/posts/celica-tachometer-fix/",
                 "title": "Celica Tachometer Fix",
                 "section": "posts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://righthanddrive.blog/posts/celica-audio-and-nav-upgrade/",
                 "title": "Celica Audio and Nav Upgrade",
                 "section": "posts",
@@ -94,7 +104,7 @@
     
         ,
             {
-                "id": 9,
+                "id": 10,
                 "href": "https://righthanddrive.blog/about/",
                 "title": "About",
                 "section": "",
