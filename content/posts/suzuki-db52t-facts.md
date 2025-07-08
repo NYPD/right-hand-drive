@@ -2,7 +2,7 @@
 title: Suzuki Carry DB52T Facts
 summary: Misc facts and figures for a 1999 Suzuki Carry DB52T
 description: Misc facts and figures for a 1999 Suzuki Carry DB52T
-date: 2025-07-07T13:10:02-06:00
+date: 2025-07-07T22:10:02-06:00
 draft: false
 toc: false
 backtotop: true
