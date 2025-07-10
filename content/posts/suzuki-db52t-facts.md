@@ -159,11 +159,10 @@ This post will serve as a collection of useful info I wish I could have easily l
   <tbody>
     <tr>
       <td>Battery Replacement</td>
+      <td>A S34B20R / AGMB20 size battery does fit in the designated battery holder.</td>
       <td>
-      </td>
-      <td>
-        A battery for a 2014 Toyota Prius plug-in fits perfectly (S46B24R size). <a href="https://www.batteriesplus.com/productdetails/sli51pagm?variationCode=VI814692" target="_blank">This one</a> fit just fine on my Suzuki. I did have to install the battery backwards since the stock battery cables were not long enough to reach. <br><br>
-        Make sure they battery you get has the pencil posts.
+      I did have to install the battery backwards since the stock battery cables were not long enough to reach. <br><br>
+      Make sure the battery you get has the "pencil posts" / JIS terminals.
       </td>
     </tr>
     <tr>
