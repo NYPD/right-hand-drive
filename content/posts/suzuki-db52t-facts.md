@@ -116,7 +116,7 @@ This post will serve as a collection of useful info I wish I could have easily l
       <td>
         <dl>
           <dt>Front</dt>
-          <dd>0.85 liters</dd>
+          <dd>0.75 liters</dd>
           <dt>Rear (Non turbo)</dt>
           <dd>1.0 liters</dd>
           <dt>Rear (turbo)</dt>
