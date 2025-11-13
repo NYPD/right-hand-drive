@@ -20,7 +20,7 @@ This post will serve as a collection of useful info I wish I could have easily l
     <tr>
       <th>Item</th>
       <th>Specification</th>
-      <th>Note </th>
+      <th>Note</th>
     </tr>
   </thead>
   <tbody>
@@ -144,7 +144,65 @@ This post will serve as a collection of useful info I wish I could have easily l
   </tbody>
 </table>
 {{< /rawhtml >}}
+  
+## Torque Specs
 
+{{< rawhtml >}}
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Specification</th>
+      <th>Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tie Rod End nut</td>
+      <td>43 Nm</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>Tie Rod Lock nut</td>
+      <td>45 Nm</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>Strut "top hat" bolts</td>
+      <td>73 Nm</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>Strut Knuckle bolts</td>
+      <td>95 Nm</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>Wheel spindle/axle but</td>
+      <td>175 Nm</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>Brake caliper nuts</td>
+      <td>95 Nm</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>Bottom knucle singular bolt</td>
+      <td>55 Nm</td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+{{< /rawhtml >}}
+  
 ## Misc
 
 {{< rawhtml >}}
@@ -153,7 +211,7 @@ This post will serve as a collection of useful info I wish I could have easily l
     <tr>
       <th>Item</th>
       <th>Specification</th>
-      <th>Note </th>
+      <th>Note</th>
     </tr>
   </thead>
   <tbody>
